@@ -19,7 +19,8 @@ def create_substring_dictionary():
                 word_length = len(single_word)
                 for start in range(word_length):
                     for length in range(1, word_length - start + 1):
-                        substring = single_word[start:start + length].strip()
+                        # Convert substring to lowercase before adding to dictionary
+                        substring = single_word[start:start + length].strip().lower()
                         
                         # Skip substrings that are just spaces or special characters
                         if not substring or substring.isspace() or substring in ['.', '-', '_']:
