@@ -9,22 +9,27 @@ def create_substring_dictionary():
             word = line.strip()
             if not word:  # Skip empty lines
                 continue
-                
-            # Get all possible substrings of length 1 or more
-            word_length = len(word)
-            for start in range(word_length):
-                for length in range(1, word_length - start + 1):
-                    substring = word[start:start + length].strip()
-                    
-                    # Skip substrings that are just spaces or special characters
-                    if not substring or substring.isspace() or substring in ['.', '-', '_']:
-                        continue
-                    
-                    # Add to dictionary with count
-                    if substring in count_dictionary:
-                        count_dictionary[substring] += 1
-                    else:
-                        count_dictionary[substring] = 1
+            
+            # Split by spaces to handle each word separately
+            words = word.split()
+            
+            # Process each word individually
+            for single_word in words:
+                # Get all possible substrings of length 1 or more
+                word_length = len(single_word)
+                for start in range(word_length):
+                    for length in range(1, word_length - start + 1):
+                        substring = single_word[start:start + length].strip()
+                        
+                        # Skip substrings that are just spaces or special characters
+                        if not substring or substring.isspace() or substring in ['.', '-', '_']:
+                            continue
+                        
+                        # Add to dictionary with count
+                        if substring in count_dictionary:
+                            count_dictionary[substring] += 1
+                        else:
+                            count_dictionary[substring] = 1
     
     # Save dictionary to JSON file
     with open('substrings.json', 'w', encoding='utf-8') as f:
