@@ -1,0 +1,100 @@
+Alfa1
+AlphaWallet
+Ambire Wallet
+AnCrypto
+Apex
+Argent
+BLS Wallet
+Backpack
+Banana Wallet SDK
+Biconomy
+Bitcoin.com Wallet
+Bitget Wallet
+Bitski Wallet
+Bizzllet
+BlockWallet
+Blocto
+Brume Wallet
+Candide
+Cashmere
+Castle
+Clear EVM Wallet
+Cobo
+Coin98
+Coinbase Wallet
+Cypher Wallet
+Daedalus Wallet
+Dapp Pocket
+Dawn
+Desig
+Dfns
+Enkrypt
+Etherspot SDK
+Fluvi Wallet
+Frontier Wallet
+Gem Wallet
+Goki
+Gridlock
+Guarda Wallet
+HaHa Wallet
+Holdstation
+Infinity Wallet
+Itsawallet
+Kraken Wallet
+KryptoGO Wallet
+Kuma Wallet
+Linen
+Lit
+Locksmith Wallet
+MEW wallet
+MPCVault
+Mangos Wallet
+Marble Wallet
+Martian Wallet
+MetaMask
+MoWallet
+Multis
+Myrkle
+Narval
+OKX Wallet
+Obvious
+Phantom Wallet
+Pillar
+Plena Finance
+Portal
+Qredo
+Rabby Wallet
+Rainbow
+Rainmaker
+Raise Finance
+Rivo.xyz
+Ronin Wallet
+SINOHOPE
+Safe
+Sender
+Sepior
+Sequence
+Snowflake
+Solflare
+Soul Wallet
+Spot Wallet
+Squads
+Stackup
+Taho Wallet (Formerly Tally Ho)
+TokenPocket
+TrustWallet
+Ultimate
+UniPass
+Unstoppable Wallet
+Venly
+Wallet 3
+Wallmer
+XDEFI Wallet
+YaspFi
+Zengo
+Zerion
+imToken
+myEtherWallet
+openfort
+pier wallet
+zkBob Private Wallet

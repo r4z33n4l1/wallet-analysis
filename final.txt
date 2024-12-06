@@ -1,0 +1,379 @@
+ADAMANT Messenger
+AMON
+AVME
+Aarc
+Agama
+Airgap
+Aladdin Wallet
+Alfa1
+AlphaWallet
+AmazeWallet
+Ambire Wallet
+AnCrypto
+Anchorage Digital
+Apex
+Argent
+Armory
+Atomex
+Atomic
+Atomic Wallet
+AtomicDEX
+Authereum
+BC VAULT
+BITHD
+BLS Wallet
+BRD
+BTC.com
+Backpack
+Ballet
+Banana Wallet SDK
+Bankera
+Biconomy
+BitBox
+BitCron
+BitFi
+BitPanda
+BitVault
+Bitcoin Well
+Bitcoin.com Wallet
+Bitfia
+Bitget Wallet
+Bitgo
+Bitinka
+Bitlox
+Bitmymoney
+Bitpanda Custody
+Bitpie
+Bitpowr
+Bitski Wallet
+Bitsy
+Bizzllet
+Block.io
+BlockWallet
+Blockchain Wallet
+Blockstream Green
+Blocto
+BlueWallet
+Bold
+Braavos
+Brave Software
+Brume Wallet
+Bundil
+Buntoy
+COLDCARD
+CRYPTOTAG
+CYBAVO
+Caesium
+Cake Wallet
+Candide
+Carbon
+Casa
+Casascius Physical Bitcoin
+Cash App
+Cashmere
+Castle
+Celery
+Chaching
+ChronoMint
+Circle
+Circle Invest
+Citadel.one
+Citowise
+Civic Wallet
+Clear EVM Wallet
+Cobo
+Cobo Wallet
+Coffee Wallet
+Coin Collect
+Coin Wallet
+Coin98
+CoinField
+CoinPayments
+CoinSpot
+CoinVault
+Coinbase
+Coinbase Smart Wallet
+Coinbase Wallet
+Coinbelly
+Coinfy
+Coinjar
+Coinme
+Coinomi
+Coins
+Conio
+Connectee
+Coolwallet
+Copay
+Copper.co
+Cregis
+CryptX Wallet
+Crypterium.com
+Crypto Key Stack
+Crypto.com
+Cryptonator
+Cryptopay
+Cryptosteel
+Curv
+Cypher Wallet
+Daedalus Wallet
+Dapp Pocket
+DataCurve
+Dawn
+Degen Wallet
+Desig
+Dexwallet
+Dfns
+Dove Wallet
+E-POCKET
+ECOIN Wallet
+ECOMI
+ELLIPAL Cold Wallet 2.0
+ELLIPAL Mnemonic Metal
+ELLIPAL Titan
+Eclipcoin
+Ecto Wallet
+Edge
+Eidoo
+Elaphant
+Electrum
+Enjin Wallet
+Enkrypt
+Equicex
+Etherspot SDK
+Etherwall
+Ethos Universal Wallet
+Exodus
+FV Bank
+Falcon
+Fearless Wallet
+Fetch
+Finney
+Finoa
+Fintopio
+Fireblocks
+Fluvi Wallet
+Fordefi
+Fortmatic
+Frame
+Freewallet Lite
+Frontier
+Frontier Wallet
+FrostByte
+Funex Pro Wallet
+Gatehub
+Gem Guard Wallet
+Gem Wallet
+Ginco
+Goki
+Gridlock
+Guarda
+Guarda Wallet
+HASHWallet
+HB Wallet
+HaHa Wallet
+Hex Trust
+HexaWallet
+Hodlr Disks
+Hodly
+Holdstation
+HolyTransaction
+ICONex
+IndieSquare
+Infinito
+Infinito Wallet
+Infinity Wallet
+Internet of Coins
+Itsawallet
+Jaxx
+Jubiter
+KCASH
+Keepkey
+Keystone
+Kraken Wallet
+Krypte
+KryptoGO Wallet
+Kukai
+Kuma Wallet
+LEDGER CRYPTOSTEEL CAPSULE SOLO
+LOBSTR
+Labyrinth
+Ledger Blue
+Ledger Nano S
+Ledger Nano X
+Ledger Stax
+Linen
+Lit
+Locksmith Wallet
+Lumi
+Luno
+Lykke
+MEW wallet
+MPCVault
+MSigna
+MYKEY
+Maiar
+Mangos Wallet
+Marble Wallet
+Martian Wallet
+Mass
+MathWallet
+Matic Wallet
+MetaMask
+Metal Pay
+Metamask
+Micro Lumens
+Midas.eco
+Minerva Wallet
+MiniPay
+MintMe.com Coin Wallet
+Mitex
+MoWallet
+ModulTrade
+Monarch
+Monolith
+Multis
+Muun
+MyConstant
+MyCrypto
+MyEtherWallet
+Myrkle
+NEO Tracker
+NEON
+NGRAVE GRAPHENE
+NGRAVE ZERO
+NOW Wallet
+Narval
+Nash
+Nimiq
+Nova Wallet
+Numio
+O3
+OKX Wallet
+OWNR Wallet
+Obvious
+OctoBit.IO
+Omni
+OmniWallet
+Onchain Custodian
+OneKey
+OpenDime
+Opera Touch
+OraSaifu
+Ownbit
+PTPWallet
+Pandora's Wallet
+Phantom
+Phantom Wallet
+Pillar
+PipWallet
+Plena Finance
+Poltergeist Wallet
+Portal
+Prokey Optimum
+PumaPay
+Qbao
+Qredo
+Rabby Wallet
+Rainbow
+Rainmaker
+Raise Finance
+Revuto
+Rivo.xyz
+Robinhood
+Ronin
+Ronin Wallet
+RuufPay
+SINOHOPE
+Saakuru
+Safe
+SafePal
+SafePal Cypher
+SafePal S1 Hardware Wallet
+Samourai Wallet
+SatoWallet
+Saymatik
+Secalot
+SelfKey
+Sender
+Sepior
+Sequence
+SimpleHold Wallet
+Snowflake
+Solflare
+Solflare Wallet
+Sorted Wallet
+Soul Wallet
+Spectrocoin
+Spend
+Spot Wallet
+Squads
+Stackup
+Stakenet
+StrongCoin
+Sugi
+Swap.online
+Swirlwallet
+Swiss Bank In Your Pocket
+Sygnum Bank
+Sylo
+Taho Wallet (Formerly Tally Ho)
+Talisman
+Tangem
+Temexe
+TenX
+Timeless X
+Tokel Platform
+Token Pockets
+TokenPocket
+Tokit
+Torus
+Trezor Model T
+Trezor One
+Trust Wallet
+TrustWallet
+Trustology
+UberPay
+Ultimate
+UniPass
+Unstoppable Wallet
+Uphold
+Utila
+Venly
+Vidulum
+Virgo Wallet
+Vision
+WallETH
+Wallet 3
+WalletConnect
+WalletKit
+Wallmer
+Wasabi Wallet
+Waves
+WeDeFi
+Web3asy
+Wigwam
+Wirex
+XDEFI Wallet
+XWallet
+Xapo
+Xverse
+YaspFi
+ZebPay
+Zelcore
+ZenGo Wallet
+Zengo
+Zerion
+Zumo
+Zypto Wallet
+atato Custody
+chivo
+eToroX
+iToken
+imKey
+imTOKEN
+imToken
+myEtherWallet
+openfort
+pier wallet
+portis
+zkBob Private Wallet
