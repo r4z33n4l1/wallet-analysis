@@ -1,4 +1,206 @@
 {
+    "1": {
+        "Agama": [
+            [
+                "agama"
+            ]
+        ],
+        "Apex": [
+            [
+                "apex"
+            ]
+        ],
+        "Argent": [
+            [
+                "argent"
+            ]
+        ],
+        "Atomic": [
+            [
+                "atomic"
+            ]
+        ],
+        "Bitsy": [
+            [
+                "bitsy"
+            ]
+        ],
+        "Bold": [
+            [
+                "bold"
+            ]
+        ],
+        "Caesium": [
+            [
+                "caesium"
+            ]
+        ],
+        "Casa": [
+            [
+                "casa"
+            ]
+        ],
+        "Castle": [
+            [
+                "castle"
+            ]
+        ],
+        "Celery": [
+            [
+                "celery"
+            ]
+        ],
+        "Circle": [
+            [
+                "circle"
+            ]
+        ],
+        "Coins": [
+            [
+                "coins"
+            ]
+        ],
+        "Dawn": [
+            [
+                "dawn"
+            ]
+        ],
+        "Edge": [
+            [
+                "edge"
+            ]
+        ],
+        "Exodus": [
+            [
+                "exodus"
+            ]
+        ],
+        "Falcon": [
+            [
+                "falcon"
+            ]
+        ],
+        "Fetch": [
+            [
+                "fetch"
+            ]
+        ],
+        "Frame": [
+            [
+                "frame"
+            ]
+        ],
+        "Frontier": [
+            [
+                "frontier"
+            ]
+        ],
+        "Labyrinth": [
+            [
+                "labyrinth"
+            ]
+        ],
+        "Linen": [
+            [
+                "linen"
+            ]
+        ],
+        "Lit": [
+            [
+                "lit"
+            ]
+        ],
+        "Mass": [
+            [
+                "mass"
+            ]
+        ],
+        "NEON": [
+            [
+                "neon"
+            ]
+        ],
+        "Nash": [
+            [
+                "nash"
+            ]
+        ],
+        "Obvious": [
+            [
+                "obvious"
+            ]
+        ],
+        "Omni": [
+            [
+                "omni"
+            ]
+        ],
+        "Phantom": [
+            [
+                "phantom"
+            ]
+        ],
+        "Ronin": [
+            [
+                "ronin"
+            ]
+        ],
+        "Safe": [
+            [
+                "safe"
+            ]
+        ],
+        "Sequence": [
+            [
+                "sequence"
+            ]
+        ],
+        "Spend": [
+            [
+                "spend"
+            ]
+        ],
+        "Squads": [
+            [
+                "squads"
+            ]
+        ],
+        "Stackup": [
+            [
+                "stackup"
+            ]
+        ],
+        "Sugi": [
+            [
+                "sugi"
+            ]
+        ],
+        "Torus": [
+            [
+                "torus"
+            ]
+        ],
+        "Ultimate": [
+            [
+                "ultimate"
+            ]
+        ],
+        "Uphold": [
+            [
+                "uphold"
+            ]
+        ],
+        "Waves": [
+            [
+                "waves"
+            ]
+        ],
+        "Wigwam": [
+            [
+                "wigwam"
+            ]
+        ]
+    },
     "2": {
         "Airgap": [
             [
@@ -28,6 +230,9 @@
             [
                 "arm",
                 "ory"
+            ],
+            [
+                "armory"
             ]
         ],
         "Atomic Wallet": [
@@ -52,18 +257,27 @@
             [
                 "back",
                 "pack"
+            ],
+            [
+                "backpack"
             ]
         ],
         "Ballet": [
             [
                 "bal",
                 "let"
+            ],
+            [
+                "ballet"
             ]
         ],
         "Bankera": [
             [
                 "bank",
                 "era"
+            ],
+            [
+                "bankera"
             ]
         ],
         "BitBox": [
@@ -160,12 +374,18 @@
             [
                 "cand",
                 "ide"
+            ],
+            [
+                "candide"
             ]
         ],
         "Carbon": [
             [
                 "car",
                 "bon"
+            ],
+            [
+                "carbon"
             ]
         ],
         "Cash App": [
@@ -178,6 +398,9 @@
             [
                 "cash",
                 "mere"
+            ],
+            [
+                "cashmere"
             ]
         ],
         "Chaching": [
@@ -310,6 +533,9 @@
             [
                 "elect",
                 "rum"
+            ],
+            [
+                "electrum"
             ]
         ],
         "Etherwall": [
@@ -358,6 +584,9 @@
             [
                 "grid",
                 "lock"
+            ],
+            [
+                "gridlock"
             ]
         ],
         "HASHWallet": [
@@ -416,6 +645,9 @@
             [
                 "keys",
                 "tone"
+            ],
+            [
+                "keystone"
             ]
         ],
         "LOBSTR": [
@@ -476,12 +708,18 @@
             [
                 "mon",
                 "arch"
+            ],
+            [
+                "monarch"
             ]
         ],
         "Monolith": [
             [
                 "mono",
                 "lith"
+            ],
+            [
+                "monolith"
             ]
         ],
         "NOW Wallet": [
@@ -548,6 +786,9 @@
             [
                 "pil",
                 "lar"
+            ],
+            [
+                "pillar"
             ]
         ],
         "PipWallet": [
@@ -566,6 +807,9 @@
             [
                 "por",
                 "tal"
+            ],
+            [
+                "portal"
             ]
         ],
         "PumaPay": [
@@ -578,12 +822,18 @@
             [
                 "rain",
                 "bow"
+            ],
+            [
+                "rainbow"
             ]
         ],
         "Rainmaker": [
             [
                 "rain",
                 "maker"
+            ],
+            [
+                "rainmaker"
             ]
         ],
         "Raise Finance": [
@@ -626,12 +876,18 @@
             [
                 "sen",
                 "der"
+            ],
+            [
+                "sender"
             ]
         ],
         "Snowflake": [
             [
                 "snow",
                 "flake"
+            ],
+            [
+                "snowflake"
             ]
         ],
         "Solflare": [
@@ -680,6 +936,9 @@
             [
                 "talis",
                 "man"
+            ],
+            [
+                "talisman"
             ]
         ],
         "Tangem": [
@@ -740,6 +999,9 @@
             [
                 "vis",
                 "ion"
+            ],
+            [
+                "vision"
             ]
         ],
         "WallETH": [

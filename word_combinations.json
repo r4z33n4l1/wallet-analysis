@@ -35,6 +35,11 @@
             "messenger"
         ]
     ],
+    "Agama": [
+        [
+            "agama"
+        ]
+    ],
     "Airgap": [
         [
             "air",
@@ -101,10 +106,28 @@
             "digital"
         ]
     ],
+    "Apex": [
+        [
+            "apex"
+        ]
+    ],
+    "Argent": [
+        [
+            "argent"
+        ]
+    ],
     "Armory": [
         [
             "arm",
             "ory"
+        ],
+        [
+            "armory"
+        ]
+    ],
+    "Atomic": [
+        [
+            "atomic"
         ]
     ],
     "Atomic Wallet": [
@@ -129,18 +152,27 @@
         [
             "back",
             "pack"
+        ],
+        [
+            "backpack"
         ]
     ],
     "Ballet": [
         [
             "bal",
             "let"
+        ],
+        [
+            "ballet"
         ]
     ],
     "Bankera": [
         [
             "bank",
             "era"
+        ],
+        [
+            "bankera"
         ]
     ],
     "BitBox": [
@@ -201,6 +233,11 @@
             "wallet"
         ]
     ],
+    "Bitsy": [
+        [
+            "bitsy"
+        ]
+    ],
     "BlockWallet": [
         [
             "block",
@@ -237,6 +274,11 @@
         [
             "blue",
             "wallet"
+        ]
+    ],
+    "Bold": [
+        [
+            "bold"
         ]
     ],
     "Braavos": [
@@ -286,6 +328,11 @@
             "tag"
         ]
     ],
+    "Caesium": [
+        [
+            "caesium"
+        ]
+    ],
     "Cake Wallet": [
         [
             "cake",
@@ -296,12 +343,23 @@
         [
             "cand",
             "ide"
+        ],
+        [
+            "candide"
         ]
     ],
     "Carbon": [
         [
             "car",
             "bon"
+        ],
+        [
+            "carbon"
+        ]
+    ],
+    "Casa": [
+        [
+            "casa"
         ]
     ],
     "Cash App": [
@@ -314,6 +372,19 @@
         [
             "cash",
             "mere"
+        ],
+        [
+            "cashmere"
+        ]
+    ],
+    "Castle": [
+        [
+            "castle"
+        ]
+    ],
+    "Celery": [
+        [
+            "celery"
         ]
     ],
     "Chaching": [
@@ -324,6 +395,11 @@
         [
             "chac",
             "hing"
+        ]
+    ],
+    "Circle": [
+        [
+            "circle"
         ]
     ],
     "Circle Invest": [
@@ -427,6 +503,11 @@
             "jar"
         ]
     ],
+    "Coins": [
+        [
+            "coins"
+        ]
+    ],
     "Coolwallet": [
         [
             "cool",
@@ -492,6 +573,11 @@
             "curve"
         ]
     ],
+    "Dawn": [
+        [
+            "dawn"
+        ]
+    ],
     "Dexwallet": [
         [
             "dex",
@@ -504,10 +590,18 @@
             "wallet"
         ]
     ],
+    "Edge": [
+        [
+            "edge"
+        ]
+    ],
     "Electrum": [
         [
             "elect",
             "rum"
+        ],
+        [
+            "electrum"
         ]
     ],
     "Etherwall": [
@@ -536,6 +630,16 @@
             "wallet"
         ]
     ],
+    "Exodus": [
+        [
+            "exodus"
+        ]
+    ],
+    "Falcon": [
+        [
+            "falcon"
+        ]
+    ],
     "Fearless Wallet": [
         [
             "fear",
@@ -545,6 +649,11 @@
         [
             "fearless",
             "wallet"
+        ]
+    ],
+    "Fetch": [
+        [
+            "fetch"
         ]
     ],
     "Fireblocks": [
@@ -559,11 +668,21 @@
             "defi"
         ]
     ],
+    "Frame": [
+        [
+            "frame"
+        ]
+    ],
     "Freewallet Lite": [
         [
             "free",
             "wallet",
             "lite"
+        ]
+    ],
+    "Frontier": [
+        [
+            "frontier"
         ]
     ],
     "Frontier Wallet": [
@@ -601,6 +720,9 @@
         [
             "grid",
             "lock"
+        ],
+        [
+            "gridlock"
         ]
     ],
     "HASHWallet": [
@@ -704,6 +826,9 @@
         [
             "keys",
             "tone"
+        ],
+        [
+            "keystone"
         ]
     ],
     "Kraken Wallet": [
@@ -789,6 +914,11 @@
             "str"
         ]
     ],
+    "Labyrinth": [
+        [
+            "labyrinth"
+        ]
+    ],
     "Ledger Blue": [
         [
             "led",
@@ -798,6 +928,16 @@
         [
             "ledger",
             "blue"
+        ]
+    ],
+    "Linen": [
+        [
+            "linen"
+        ]
+    ],
+    "Lit": [
+        [
+            "lit"
         ]
     ],
     "Locksmith Wallet": [
@@ -843,6 +983,11 @@
         [
             "martian",
             "wallet"
+        ]
+    ],
+    "Mass": [
+        [
+            "mass"
         ]
     ],
     "MathWallet": [
@@ -896,12 +1041,18 @@
         [
             "mon",
             "arch"
+        ],
+        [
+            "monarch"
         ]
     ],
     "Monolith": [
         [
             "mono",
             "lith"
+        ],
+        [
+            "monolith"
         ]
     ],
     "NEO Tracker": [
@@ -913,6 +1064,11 @@
         [
             "neo",
             "tracker"
+        ]
+    ],
+    "NEON": [
+        [
+            "neon"
         ]
     ],
     "NOW Wallet": [
@@ -927,10 +1083,25 @@
             "val"
         ]
     ],
+    "Nash": [
+        [
+            "nash"
+        ]
+    ],
     "Nova Wallet": [
         [
             "nova",
             "wallet"
+        ]
+    ],
+    "Obvious": [
+        [
+            "obvious"
+        ]
+    ],
+    "Omni": [
+        [
+            "omni"
         ]
     ],
     "OmniWallet": [
@@ -969,6 +1140,11 @@
             "wallet"
         ]
     ],
+    "Phantom": [
+        [
+            "phantom"
+        ]
+    ],
     "Phantom Wallet": [
         [
             "phantom",
@@ -979,6 +1155,9 @@
         [
             "pil",
             "lar"
+        ],
+        [
+            "pillar"
         ]
     ],
     "PipWallet": [
@@ -1009,6 +1188,9 @@
         [
             "por",
             "tal"
+        ],
+        [
+            "portal"
         ]
     ],
     "Prokey Optimum": [
@@ -1028,12 +1210,18 @@
         [
             "rain",
             "bow"
+        ],
+        [
+            "rainbow"
         ]
     ],
     "Rainmaker": [
         [
             "rain",
             "maker"
+        ],
+        [
+            "rainmaker"
         ]
     ],
     "Raise Finance": [
@@ -1048,6 +1236,11 @@
             "hood"
         ]
     ],
+    "Ronin": [
+        [
+            "ronin"
+        ]
+    ],
     "Ronin Wallet": [
         [
             "ronin",
@@ -1058,6 +1251,11 @@
         [
             "saa",
             "kuru"
+        ]
+    ],
+    "Safe": [
+        [
+            "safe"
         ]
     ],
     "SafePal": [
@@ -1089,6 +1287,14 @@
         [
             "sen",
             "der"
+        ],
+        [
+            "sender"
+        ]
+    ],
+    "Sequence": [
+        [
+            "sequence"
         ]
     ],
     "SimpleHold Wallet": [
@@ -1102,6 +1308,9 @@
         [
             "snow",
             "flake"
+        ],
+        [
+            "snowflake"
         ]
     ],
     "Solflare": [
@@ -1129,10 +1338,25 @@
             "wallet"
         ]
     ],
+    "Spend": [
+        [
+            "spend"
+        ]
+    ],
     "Spot Wallet": [
         [
             "spot",
             "wallet"
+        ]
+    ],
+    "Squads": [
+        [
+            "squads"
+        ]
+    ],
+    "Stackup": [
+        [
+            "stackup"
         ]
     ],
     "Stakenet": [
@@ -1147,6 +1371,11 @@
             "coin"
         ]
     ],
+    "Sugi": [
+        [
+            "sugi"
+        ]
+    ],
     "Swirlwallet": [
         [
             "swirl",
@@ -1157,6 +1386,9 @@
         [
             "talis",
             "man"
+        ],
+        [
+            "talisman"
         ]
     ],
     "Tangem": [
@@ -1177,6 +1409,11 @@
             "pocket"
         ]
     ],
+    "Torus": [
+        [
+            "torus"
+        ]
+    ],
     "Trust Wallet": [
         [
             "trust",
@@ -1195,6 +1432,11 @@
             "ology"
         ]
     ],
+    "Ultimate": [
+        [
+            "ultimate"
+        ]
+    ],
     "UniPass": [
         [
             "uni",
@@ -1207,6 +1449,11 @@
             "wallet"
         ]
     ],
+    "Uphold": [
+        [
+            "uphold"
+        ]
+    ],
     "Virgo Wallet": [
         [
             "virgo",
@@ -1217,6 +1464,9 @@
         [
             "vis",
             "ion"
+        ],
+        [
+            "vision"
         ]
     ],
     "WallETH": [
@@ -1247,6 +1497,16 @@
         [
             "wasabi",
             "wallet"
+        ]
+    ],
+    "Waves": [
+        [
+            "waves"
+        ]
+    ],
+    "Wigwam": [
+        [
+            "wigwam"
         ]
     ],
     "Zelcore": [

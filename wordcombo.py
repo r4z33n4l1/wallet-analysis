@@ -30,7 +30,12 @@ def find_word_combinations():
         wallet_lower = wallet_name.lower().replace(' ', '')
         valid_combos = set()
         
-        # Try different combination lengths (2 words, 3 words, etc.)
+        # First check if any single word matches the entire name
+        for word in word_list:
+            if word.lower() == wallet_lower:
+                valid_combos.add((word,))
+        
+        # Then try combinations of multiple words
         for combo_length in range(2, len(word_list) + 1):
             # Log when trying new combination length
             logging.debug(f"Trying combinations of length {combo_length} for {wallet_name}")
