@@ -1119,3 +1119,582 @@
 2024-12-09 11:30:27,373 - INFO - Processing wallet 366/366: zkBob Private Wallet
 2024-12-09 11:30:27,380 - INFO - Completed processing. Found word combinations for 209 wallet names
 2024-12-09 11:30:27,380 - INFO - Analysis complete
+2024-12-09 11:43:05,877 - INFO - Starting word combination analysis
+2024-12-09 11:43:05,877 - INFO - Starting to process 366 wallet names
+2024-12-09 11:43:05,877 - INFO - Processing wallet 1/366: ADAMANT Messenger
+2024-12-09 11:43:06,536 - INFO - Found 6 valid combinations for ADAMANT Messenger
+2024-12-09 11:43:06,536 - INFO - Processing wallet 2/366: AMON
+2024-12-09 11:43:06,536 - INFO - Processing wallet 3/366: Aarc
+2024-12-09 11:43:06,536 - INFO - Processing wallet 4/366: Agama
+2024-12-09 11:43:06,536 - INFO - Found 1 valid combinations for Agama
+2024-12-09 11:43:06,536 - INFO - Processing wallet 5/366: Airgap
+2024-12-09 11:43:06,536 - INFO - Found 1 valid combinations for Airgap
+2024-12-09 11:43:06,536 - INFO - Processing wallet 6/366: Aladdin Wallet
+2024-12-09 11:43:06,537 - INFO - Found 1 valid combinations for Aladdin Wallet
+2024-12-09 11:43:06,537 - INFO - Processing wallet 7/366: Alfa1
+2024-12-09 11:43:06,537 - INFO - Processing wallet 8/366: AlphaWallet
+2024-12-09 11:43:06,537 - INFO - Found 1 valid combinations for AlphaWallet
+2024-12-09 11:43:06,537 - INFO - Processing wallet 9/366: AmazeWallet
+2024-12-09 11:43:06,537 - INFO - Found 1 valid combinations for AmazeWallet
+2024-12-09 11:43:06,537 - INFO - Processing wallet 10/366: Ambire Wallet
+2024-12-09 11:43:06,537 - INFO - Found 1 valid combinations for Ambire Wallet
+2024-12-09 11:43:06,537 - INFO - Processing wallet 11/366: AnCrypto
+2024-12-09 11:43:06,537 - INFO - Processing wallet 12/366: Anchorage Digital
+2024-12-09 11:43:06,864 - INFO - Found 6 valid combinations for Anchorage Digital
+2024-12-09 11:43:06,864 - INFO - Processing wallet 13/366: Apex
+2024-12-09 11:43:06,864 - INFO - Found 1 valid combinations for Apex
+2024-12-09 11:43:06,864 - INFO - Processing wallet 14/366: Argent
+2024-12-09 11:43:06,864 - INFO - Found 1 valid combinations for Argent
+2024-12-09 11:43:06,864 - INFO - Processing wallet 15/366: Armory
+2024-12-09 11:43:06,864 - INFO - Found 2 valid combinations for Armory
+2024-12-09 11:43:06,864 - INFO - Processing wallet 16/366: Atomex
+2024-12-09 11:43:06,864 - INFO - Processing wallet 17/366: Atomic
+2024-12-09 11:43:06,864 - INFO - Found 1 valid combinations for Atomic
+2024-12-09 11:43:06,865 - INFO - Processing wallet 18/366: Atomic Wallet
+2024-12-09 11:43:06,865 - INFO - Found 1 valid combinations for Atomic Wallet
+2024-12-09 11:43:06,865 - INFO - Processing wallet 19/366: AtomicDEX
+2024-12-09 11:43:06,865 - INFO - Found 1 valid combinations for AtomicDEX
+2024-12-09 11:43:06,865 - INFO - Processing wallet 20/366: Authereum
+2024-12-09 11:43:06,865 - INFO - Processing wallet 21/366: BC VAULT
+2024-12-09 11:43:06,865 - INFO - Processing wallet 22/366: BITHD
+2024-12-09 11:43:06,865 - INFO - Processing wallet 23/366: BLS Wallet
+2024-12-09 11:43:06,865 - INFO - Found 1 valid combinations for BLS Wallet
+2024-12-09 11:43:06,865 - INFO - Processing wallet 24/366: BTC.com
+2024-12-09 11:43:06,865 - INFO - Processing wallet 25/366: Backpack
+2024-12-09 11:43:06,865 - INFO - Found 2 valid combinations for Backpack
+2024-12-09 11:43:06,865 - INFO - Processing wallet 26/366: Ballet
+2024-12-09 11:43:06,865 - INFO - Found 2 valid combinations for Ballet
+2024-12-09 11:43:06,865 - INFO - Processing wallet 27/366: Banana Wallet SDK
+2024-12-09 11:43:06,869 - INFO - Processing wallet 28/366: Bankera
+2024-12-09 11:43:06,869 - INFO - Found 2 valid combinations for Bankera
+2024-12-09 11:43:06,869 - INFO - Processing wallet 29/366: Biconomy
+2024-12-09 11:43:06,869 - INFO - Processing wallet 30/366: BitBox
+2024-12-09 11:43:06,869 - INFO - Found 1 valid combinations for BitBox
+2024-12-09 11:43:06,869 - INFO - Processing wallet 31/366: BitCron
+2024-12-09 11:43:06,869 - INFO - Processing wallet 32/366: BitFi
+2024-12-09 11:43:06,869 - INFO - Processing wallet 33/366: BitPanda
+2024-12-09 11:43:06,869 - INFO - Found 1 valid combinations for BitPanda
+2024-12-09 11:43:06,869 - INFO - Processing wallet 34/366: BitVault
+2024-12-09 11:43:06,869 - INFO - Found 1 valid combinations for BitVault
+2024-12-09 11:43:06,869 - INFO - Processing wallet 35/366: Bitcoin Well
+2024-12-09 11:43:06,869 - INFO - Found 1 valid combinations for Bitcoin Well
+2024-12-09 11:43:06,869 - INFO - Processing wallet 36/366: Bitcoin.com Wallet
+2024-12-09 11:43:06,869 - INFO - Processing wallet 37/366: Bitfia
+2024-12-09 11:43:06,869 - INFO - Processing wallet 38/366: Bitget Wallet
+2024-12-09 11:43:06,869 - INFO - Found 1 valid combinations for Bitget Wallet
+2024-12-09 11:43:06,869 - INFO - Processing wallet 39/366: Bitgo
+2024-12-09 11:43:06,869 - INFO - Processing wallet 40/366: Bitinka
+2024-12-09 11:43:06,869 - INFO - Processing wallet 41/366: Bitlox
+2024-12-09 11:43:06,869 - INFO - Found 1 valid combinations for Bitlox
+2024-12-09 11:43:06,869 - INFO - Processing wallet 42/366: Bitmymoney
+2024-12-09 11:43:06,869 - INFO - Processing wallet 43/366: Bitpanda Custody
+2024-12-09 11:43:06,872 - INFO - Found 1 valid combinations for Bitpanda Custody
+2024-12-09 11:43:06,872 - INFO - Processing wallet 44/366: Bitpie
+2024-12-09 11:43:06,872 - INFO - Found 1 valid combinations for Bitpie
+2024-12-09 11:43:06,872 - INFO - Processing wallet 45/366: Bitpowr
+2024-12-09 11:43:06,872 - INFO - Processing wallet 46/366: Bitski Wallet
+2024-12-09 11:43:06,872 - INFO - Found 1 valid combinations for Bitski Wallet
+2024-12-09 11:43:06,872 - INFO - Processing wallet 47/366: Bitsy
+2024-12-09 11:43:06,872 - INFO - Found 1 valid combinations for Bitsy
+2024-12-09 11:43:06,872 - INFO - Processing wallet 48/366: Bizzllet
+2024-12-09 11:43:06,872 - INFO - Processing wallet 49/366: Block.io
+2024-12-09 11:43:06,872 - INFO - Processing wallet 50/366: BlockWallet
+2024-12-09 11:43:06,874 - INFO - Found 1 valid combinations for BlockWallet
+2024-12-09 11:43:06,875 - INFO - Processing wallet 51/366: Blockchain Wallet
+2024-12-09 11:43:06,911 - INFO - Found 1 valid combinations for Blockchain Wallet
+2024-12-09 11:43:06,911 - INFO - Processing wallet 52/366: Blockstream Green
+2024-12-09 11:43:07,606 - INFO - Found 2 valid combinations for Blockstream Green
+2024-12-09 11:43:07,607 - INFO - Processing wallet 53/366: Blocto
+2024-12-09 11:43:07,607 - INFO - Found 1 valid combinations for Blocto
+2024-12-09 11:43:07,607 - INFO - Processing wallet 54/366: BlueWallet
+2024-12-09 11:43:07,607 - INFO - Found 1 valid combinations for BlueWallet
+2024-12-09 11:43:07,607 - INFO - Processing wallet 55/366: Bold
+2024-12-09 11:43:07,607 - INFO - Found 1 valid combinations for Bold
+2024-12-09 11:43:07,607 - INFO - Processing wallet 56/366: Braavos
+2024-12-09 11:43:07,607 - INFO - Found 1 valid combinations for Braavos
+2024-12-09 11:43:07,607 - INFO - Processing wallet 57/366: Brave Software
+2024-12-09 11:43:07,608 - INFO - Found 2 valid combinations for Brave Software
+2024-12-09 11:43:07,608 - INFO - Processing wallet 58/366: Brume Wallet
+2024-12-09 11:43:07,608 - INFO - Found 1 valid combinations for Brume Wallet
+2024-12-09 11:43:07,608 - INFO - Processing wallet 59/366: Bundil
+2024-12-09 11:43:07,608 - INFO - Found 1 valid combinations for Bundil
+2024-12-09 11:43:07,608 - INFO - Processing wallet 60/366: Buntoy
+2024-12-09 11:43:07,608 - INFO - Found 1 valid combinations for Buntoy
+2024-12-09 11:43:07,608 - INFO - Processing wallet 61/366: COLDCARD
+2024-12-09 11:43:07,608 - INFO - Found 1 valid combinations for COLDCARD
+2024-12-09 11:43:07,608 - INFO - Processing wallet 62/366: CRYPTOTAG
+2024-12-09 11:43:07,608 - INFO - Found 1 valid combinations for CRYPTOTAG
+2024-12-09 11:43:07,608 - INFO - Processing wallet 63/366: CYBAVO
+2024-12-09 11:43:07,608 - INFO - Processing wallet 64/366: Caesium
+2024-12-09 11:43:07,608 - INFO - Found 1 valid combinations for Caesium
+2024-12-09 11:43:07,608 - INFO - Processing wallet 65/366: Cake Wallet
+2024-12-09 11:43:07,608 - INFO - Found 1 valid combinations for Cake Wallet
+2024-12-09 11:43:07,608 - INFO - Processing wallet 66/366: Candide
+2024-12-09 11:43:07,609 - INFO - Found 2 valid combinations for Candide
+2024-12-09 11:43:07,609 - INFO - Processing wallet 67/366: Carbon
+2024-12-09 11:43:07,609 - INFO - Found 2 valid combinations for Carbon
+2024-12-09 11:43:07,609 - INFO - Processing wallet 68/366: Casa
+2024-12-09 11:43:07,609 - INFO - Found 1 valid combinations for Casa
+2024-12-09 11:43:07,609 - INFO - Processing wallet 69/366: Casascius Physical Bitcoin
+2024-12-09 11:43:07,611 - INFO - Processing wallet 70/366: Cash App
+2024-12-09 11:43:07,611 - INFO - Found 1 valid combinations for Cash App
+2024-12-09 11:43:07,611 - INFO - Processing wallet 71/366: Cashmere
+2024-12-09 11:43:07,611 - INFO - Found 2 valid combinations for Cashmere
+2024-12-09 11:43:07,611 - INFO - Processing wallet 72/366: Castle
+2024-12-09 11:43:07,611 - INFO - Found 1 valid combinations for Castle
+2024-12-09 11:43:07,611 - INFO - Processing wallet 73/366: Celery
+2024-12-09 11:43:07,611 - INFO - Found 1 valid combinations for Celery
+2024-12-09 11:43:07,611 - INFO - Processing wallet 74/366: Chaching
+2024-12-09 11:43:07,611 - INFO - Found 2 valid combinations for Chaching
+2024-12-09 11:43:07,611 - INFO - Processing wallet 75/366: ChronoMint
+2024-12-09 11:43:07,611 - INFO - Processing wallet 76/366: Circle
+2024-12-09 11:43:07,611 - INFO - Found 1 valid combinations for Circle
+2024-12-09 11:43:07,611 - INFO - Processing wallet 77/366: Circle Invest
+2024-12-09 11:43:07,611 - INFO - Found 2 valid combinations for Circle Invest
+2024-12-09 11:43:07,611 - INFO - Processing wallet 78/366: Citadel.one
+2024-12-09 11:43:07,612 - INFO - Processing wallet 79/366: Citowise
+2024-12-09 11:43:07,612 - INFO - Processing wallet 80/366: Civic Wallet
+2024-12-09 11:43:07,612 - INFO - Found 1 valid combinations for Civic Wallet
+2024-12-09 11:43:07,612 - INFO - Processing wallet 81/366: Clear EVM Wallet
+2024-12-09 11:43:07,612 - INFO - Processing wallet 82/366: Cobo
+2024-12-09 11:43:07,612 - INFO - Processing wallet 83/366: Cobo Wallet
+2024-12-09 11:43:07,612 - INFO - Processing wallet 84/366: Coffee Wallet
+2024-12-09 11:43:07,612 - INFO - Found 1 valid combinations for Coffee Wallet
+2024-12-09 11:43:07,612 - INFO - Processing wallet 85/366: Coin Collect
+2024-12-09 11:43:07,612 - INFO - Found 2 valid combinations for Coin Collect
+2024-12-09 11:43:07,612 - INFO - Processing wallet 86/366: Coin Wallet
+2024-12-09 11:43:07,612 - INFO - Found 1 valid combinations for Coin Wallet
+2024-12-09 11:43:07,612 - INFO - Processing wallet 87/366: Coin98
+2024-12-09 11:43:07,612 - INFO - Processing wallet 88/366: CoinField
+2024-12-09 11:43:07,612 - INFO - Found 1 valid combinations for CoinField
+2024-12-09 11:43:07,612 - INFO - Processing wallet 89/366: CoinPayments
+2024-12-09 11:43:07,613 - INFO - Found 1 valid combinations for CoinPayments
+2024-12-09 11:43:07,613 - INFO - Processing wallet 90/366: CoinSpot
+2024-12-09 11:43:07,613 - INFO - Found 2 valid combinations for CoinSpot
+2024-12-09 11:43:07,613 - INFO - Processing wallet 91/366: CoinVault
+2024-12-09 11:43:07,613 - INFO - Found 1 valid combinations for CoinVault
+2024-12-09 11:43:07,613 - INFO - Processing wallet 92/366: Coinbase
+2024-12-09 11:43:07,613 - INFO - Found 1 valid combinations for Coinbase
+2024-12-09 11:43:07,613 - INFO - Processing wallet 93/366: Coinbase Smart Wallet
+2024-12-09 11:43:07,622 - INFO - Found 1 valid combinations for Coinbase Smart Wallet
+2024-12-09 11:43:07,623 - INFO - Processing wallet 94/366: Coinbase Wallet
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Coinbase Wallet
+2024-12-09 11:43:07,623 - INFO - Processing wallet 95/366: Coinbelly
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Coinbelly
+2024-12-09 11:43:07,623 - INFO - Processing wallet 96/366: Coinfy
+2024-12-09 11:43:07,623 - INFO - Processing wallet 97/366: Coinjar
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Coinjar
+2024-12-09 11:43:07,623 - INFO - Processing wallet 98/366: Coinme
+2024-12-09 11:43:07,623 - INFO - Processing wallet 99/366: Coinomi
+2024-12-09 11:43:07,623 - INFO - Processing wallet 100/366: Coins
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Coins
+2024-12-09 11:43:07,623 - INFO - Processing wallet 101/366: Conio
+2024-12-09 11:43:07,623 - INFO - Processing wallet 102/366: Connectee
+2024-12-09 11:43:07,623 - INFO - Processing wallet 103/366: Coolwallet
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Coolwallet
+2024-12-09 11:43:07,623 - INFO - Processing wallet 104/366: Copay
+2024-12-09 11:43:07,623 - INFO - Processing wallet 105/366: Copper.co
+2024-12-09 11:43:07,623 - INFO - Processing wallet 106/366: Cregis
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Cregis
+2024-12-09 11:43:07,623 - INFO - Processing wallet 107/366: CryptX Wallet
+2024-12-09 11:43:07,623 - INFO - Processing wallet 108/366: Crypterium.com
+2024-12-09 11:43:07,623 - INFO - Processing wallet 109/366: Crypto Key Stack
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Crypto Key Stack
+2024-12-09 11:43:07,623 - INFO - Processing wallet 110/366: Crypto.com
+2024-12-09 11:43:07,623 - INFO - Processing wallet 111/366: Cryptonator
+2024-12-09 11:43:07,623 - INFO - Found 1 valid combinations for Cryptonator
+2024-12-09 11:43:07,624 - INFO - Processing wallet 112/366: Cryptopay
+2024-12-09 11:43:07,624 - INFO - Found 1 valid combinations for Cryptopay
+2024-12-09 11:43:07,624 - INFO - Processing wallet 113/366: Cryptosteel
+2024-12-09 11:43:07,624 - INFO - Found 2 valid combinations for Cryptosteel
+2024-12-09 11:43:07,624 - INFO - Processing wallet 114/366: Curv
+2024-12-09 11:43:07,624 - INFO - Processing wallet 115/366: Cypher Wallet
+2024-12-09 11:43:07,624 - INFO - Found 2 valid combinations for Cypher Wallet
+2024-12-09 11:43:07,624 - INFO - Processing wallet 116/366: Daedalus Wallet
+2024-12-09 11:43:07,624 - INFO - Found 1 valid combinations for Daedalus Wallet
+2024-12-09 11:43:07,624 - INFO - Processing wallet 117/366: Dapp Pocket
+2024-12-09 11:43:07,624 - INFO - Processing wallet 118/366: DataCurve
+2024-12-09 11:43:07,624 - INFO - Found 1 valid combinations for DataCurve
+2024-12-09 11:43:07,624 - INFO - Processing wallet 119/366: Dawn
+2024-12-09 11:43:07,625 - INFO - Found 1 valid combinations for Dawn
+2024-12-09 11:43:07,625 - INFO - Processing wallet 120/366: Degen Wallet
+2024-12-09 11:43:07,625 - INFO - Processing wallet 121/366: Desig
+2024-12-09 11:43:07,625 - INFO - Processing wallet 122/366: Dexwallet
+2024-12-09 11:43:07,625 - INFO - Found 1 valid combinations for Dexwallet
+2024-12-09 11:43:07,625 - INFO - Processing wallet 123/366: Dove Wallet
+2024-12-09 11:43:07,625 - INFO - Found 1 valid combinations for Dove Wallet
+2024-12-09 11:43:07,625 - INFO - Processing wallet 124/366: E-POCKET
+2024-12-09 11:43:07,625 - INFO - Processing wallet 125/366: ECOIN Wallet
+2024-12-09 11:43:07,625 - INFO - Processing wallet 126/366: ECOMI
+2024-12-09 11:43:07,625 - INFO - Processing wallet 127/366: ELLIPAL Cold Wallet 2.0
+2024-12-09 11:43:07,627 - INFO - Processing wallet 128/366: ELLIPAL Mnemonic Metal
+2024-12-09 11:43:07,646 - INFO - Processing wallet 129/366: ELLIPAL Titan
+2024-12-09 11:43:07,646 - INFO - Processing wallet 130/366: Eclipcoin
+2024-12-09 11:43:07,646 - INFO - Processing wallet 131/366: Ecto Wallet
+2024-12-09 11:43:07,646 - INFO - Processing wallet 132/366: Edge
+2024-12-09 11:43:07,646 - INFO - Found 1 valid combinations for Edge
+2024-12-09 11:43:07,646 - INFO - Processing wallet 133/366: Eidoo
+2024-12-09 11:43:07,646 - INFO - Processing wallet 134/366: Elaphant
+2024-12-09 11:43:07,646 - INFO - Processing wallet 135/366: Electrum
+2024-12-09 11:43:07,646 - INFO - Found 2 valid combinations for Electrum
+2024-12-09 11:43:07,646 - INFO - Processing wallet 136/366: Enjin Wallet
+2024-12-09 11:43:07,646 - INFO - Processing wallet 137/366: Equicex
+2024-12-09 11:43:07,646 - INFO - Processing wallet 138/366: Etherspot SDK
+2024-12-09 11:43:07,647 - INFO - Processing wallet 139/366: Etherwall
+2024-12-09 11:43:07,647 - INFO - Found 1 valid combinations for Etherwall
+2024-12-09 11:43:07,647 - INFO - Processing wallet 140/366: Ethos Universal Wallet
+2024-12-09 11:43:07,988 - INFO - Found 3 valid combinations for Ethos Universal Wallet
+2024-12-09 11:43:07,989 - INFO - Processing wallet 141/366: Exodus
+2024-12-09 11:43:07,989 - INFO - Found 1 valid combinations for Exodus
+2024-12-09 11:43:07,989 - INFO - Processing wallet 142/366: FV Bank
+2024-12-09 11:43:07,989 - INFO - Processing wallet 143/366: Falcon
+2024-12-09 11:43:07,989 - INFO - Found 1 valid combinations for Falcon
+2024-12-09 11:43:07,989 - INFO - Processing wallet 144/366: Fearless Wallet
+2024-12-09 11:43:08,154 - INFO - Found 2 valid combinations for Fearless Wallet
+2024-12-09 11:43:08,154 - INFO - Processing wallet 145/366: Fetch
+2024-12-09 11:43:08,154 - INFO - Found 1 valid combinations for Fetch
+2024-12-09 11:43:08,154 - INFO - Processing wallet 146/366: Finney
+2024-12-09 11:43:08,154 - INFO - Processing wallet 147/366: Finoa
+2024-12-09 11:43:08,154 - INFO - Processing wallet 148/366: Fintopio
+2024-12-09 11:43:08,154 - INFO - Processing wallet 149/366: Fireblocks
+2024-12-09 11:43:08,158 - INFO - Found 1 valid combinations for Fireblocks
+2024-12-09 11:43:08,158 - INFO - Processing wallet 150/366: Fluvi Wallet
+2024-12-09 11:43:08,158 - INFO - Processing wallet 151/366: Fordefi
+2024-12-09 11:43:08,158 - INFO - Found 1 valid combinations for Fordefi
+2024-12-09 11:43:08,158 - INFO - Processing wallet 152/366: Fortmatic
+2024-12-09 11:43:08,158 - INFO - Processing wallet 153/366: Frame
+2024-12-09 11:43:08,158 - INFO - Found 1 valid combinations for Frame
+2024-12-09 11:43:08,158 - INFO - Processing wallet 154/366: Freewallet Lite
+2024-12-09 11:43:08,159 - INFO - Found 1 valid combinations for Freewallet Lite
+2024-12-09 11:43:08,159 - INFO - Processing wallet 155/366: Frontier
+2024-12-09 11:43:08,159 - INFO - Found 1 valid combinations for Frontier
+2024-12-09 11:43:08,159 - INFO - Processing wallet 156/366: Frontier Wallet
+2024-12-09 11:43:08,161 - INFO - Found 1 valid combinations for Frontier Wallet
+2024-12-09 11:43:08,161 - INFO - Processing wallet 157/366: FrostByte
+2024-12-09 11:43:08,161 - INFO - Found 1 valid combinations for FrostByte
+2024-12-09 11:43:08,161 - INFO - Processing wallet 158/366: Funex Pro Wallet
+2024-12-09 11:43:08,161 - INFO - Processing wallet 159/366: Gatehub
+2024-12-09 11:43:08,161 - INFO - Found 1 valid combinations for Gatehub
+2024-12-09 11:43:08,161 - INFO - Processing wallet 160/366: Gem Guard Wallet
+2024-12-09 11:43:08,161 - INFO - Found 1 valid combinations for Gem Guard Wallet
+2024-12-09 11:43:08,161 - INFO - Processing wallet 161/366: Gem Wallet
+2024-12-09 11:43:08,161 - INFO - Found 1 valid combinations for Gem Wallet
+2024-12-09 11:43:08,161 - INFO - Processing wallet 162/366: Ginco
+2024-12-09 11:43:08,161 - INFO - Processing wallet 163/366: Goki
+2024-12-09 11:43:08,161 - INFO - Processing wallet 164/366: Gridlock
+2024-12-09 11:43:08,161 - INFO - Found 2 valid combinations for Gridlock
+2024-12-09 11:43:08,161 - INFO - Processing wallet 165/366: Guarda
+2024-12-09 11:43:08,161 - INFO - Processing wallet 166/366: Guarda Wallet
+2024-12-09 11:43:08,161 - INFO - Processing wallet 167/366: HASHWallet
+2024-12-09 11:43:08,162 - INFO - Found 1 valid combinations for HASHWallet
+2024-12-09 11:43:08,162 - INFO - Processing wallet 168/366: HB Wallet
+2024-12-09 11:43:08,162 - INFO - Processing wallet 169/366: HaHa Wallet
+2024-12-09 11:43:08,162 - INFO - Found 1 valid combinations for HaHa Wallet
+2024-12-09 11:43:08,162 - INFO - Processing wallet 170/366: Hex Trust
+2024-12-09 11:43:08,162 - INFO - Found 1 valid combinations for Hex Trust
+2024-12-09 11:43:08,162 - INFO - Processing wallet 171/366: HexaWallet
+2024-12-09 11:43:08,162 - INFO - Found 1 valid combinations for HexaWallet
+2024-12-09 11:43:08,162 - INFO - Processing wallet 172/366: Hodlr Disks
+2024-12-09 11:43:08,162 - INFO - Processing wallet 173/366: Hodly
+2024-12-09 11:43:08,162 - INFO - Processing wallet 174/366: Holdstation
+2024-12-09 11:43:08,163 - INFO - Found 3 valid combinations for Holdstation
+2024-12-09 11:43:08,163 - INFO - Processing wallet 175/366: HolyTransaction
+2024-12-09 11:43:08,171 - INFO - Found 4 valid combinations for HolyTransaction
+2024-12-09 11:43:08,171 - INFO - Processing wallet 176/366: ICONex
+2024-12-09 11:43:08,171 - INFO - Processing wallet 177/366: IndieSquare
+2024-12-09 11:43:08,172 - INFO - Found 1 valid combinations for IndieSquare
+2024-12-09 11:43:08,172 - INFO - Processing wallet 178/366: Infinito
+2024-12-09 11:43:08,172 - INFO - Found 1 valid combinations for Infinito
+2024-12-09 11:43:08,172 - INFO - Processing wallet 179/366: Infinito Wallet
+2024-12-09 11:43:08,176 - INFO - Found 1 valid combinations for Infinito Wallet
+2024-12-09 11:43:08,176 - INFO - Processing wallet 180/366: Infinity Wallet
+2024-12-09 11:43:08,180 - INFO - Found 1 valid combinations for Infinity Wallet
+2024-12-09 11:43:08,180 - INFO - Processing wallet 181/366: Internet of Coins
+2024-12-09 11:43:08,188 - INFO - Processing wallet 182/366: Itsawallet
+2024-12-09 11:43:08,188 - INFO - Processing wallet 183/366: Jubiter
+2024-12-09 11:43:08,188 - INFO - Processing wallet 184/366: KCASH
+2024-12-09 11:43:08,188 - INFO - Processing wallet 185/366: Keepkey
+2024-12-09 11:43:08,188 - INFO - Found 1 valid combinations for Keepkey
+2024-12-09 11:43:08,188 - INFO - Processing wallet 186/366: Keystone
+2024-12-09 11:43:08,188 - INFO - Found 3 valid combinations for Keystone
+2024-12-09 11:43:08,188 - INFO - Processing wallet 187/366: Kraken Wallet
+2024-12-09 11:43:08,189 - INFO - Found 2 valid combinations for Kraken Wallet
+2024-12-09 11:43:08,189 - INFO - Processing wallet 188/366: Krypte
+2024-12-09 11:43:08,189 - INFO - Processing wallet 189/366: KryptoGO Wallet
+2024-12-09 11:43:08,189 - INFO - Processing wallet 190/366: Kukai
+2024-12-09 11:43:08,189 - INFO - Processing wallet 191/366: Kuma Wallet
+2024-12-09 11:43:08,189 - INFO - Processing wallet 192/366: LEDGER CRYPTOSTEEL CAPSULE SOLO
+2024-12-09 11:43:11,250 - INFO - Found 8 valid combinations for LEDGER CRYPTOSTEEL CAPSULE SOLO
+2024-12-09 11:43:11,250 - INFO - Processing wallet 193/366: LOBSTR
+2024-12-09 11:43:11,250 - INFO - Found 1 valid combinations for LOBSTR
+2024-12-09 11:43:11,250 - INFO - Processing wallet 194/366: Labyrinth
+2024-12-09 11:43:11,250 - INFO - Found 1 valid combinations for Labyrinth
+2024-12-09 11:43:11,250 - INFO - Processing wallet 195/366: Ledger Blue
+2024-12-09 11:43:11,250 - INFO - Found 2 valid combinations for Ledger Blue
+2024-12-09 11:43:11,250 - INFO - Processing wallet 196/366: Ledger Nano S
+2024-12-09 11:43:11,250 - INFO - Processing wallet 197/366: Ledger Nano X
+2024-12-09 11:43:11,250 - INFO - Processing wallet 198/366: Ledger Stax
+2024-12-09 11:43:11,250 - INFO - Processing wallet 199/366: Linen
+2024-12-09 11:43:11,250 - INFO - Found 1 valid combinations for Linen
+2024-12-09 11:43:11,250 - INFO - Processing wallet 200/366: Lit
+2024-12-09 11:43:11,250 - INFO - Found 1 valid combinations for Lit
+2024-12-09 11:43:11,250 - INFO - Processing wallet 201/366: Locksmith Wallet
+2024-12-09 11:43:11,254 - INFO - Found 2 valid combinations for Locksmith Wallet
+2024-12-09 11:43:11,254 - INFO - Processing wallet 202/366: Lumi
+2024-12-09 11:43:11,254 - INFO - Processing wallet 203/366: MEW wallet
+2024-12-09 11:43:11,254 - INFO - Found 1 valid combinations for MEW wallet
+2024-12-09 11:43:11,254 - INFO - Processing wallet 204/366: MPCVault
+2024-12-09 11:43:11,254 - INFO - Processing wallet 205/366: MSigna
+2024-12-09 11:43:11,254 - INFO - Processing wallet 206/366: MYKEY
+2024-12-09 11:43:11,254 - INFO - Processing wallet 207/366: Maiar
+2024-12-09 11:43:11,254 - INFO - Processing wallet 208/366: Mangos Wallet
+2024-12-09 11:43:11,255 - INFO - Found 2 valid combinations for Mangos Wallet
+2024-12-09 11:43:11,255 - INFO - Processing wallet 209/366: Marble Wallet
+2024-12-09 11:43:11,256 - INFO - Found 1 valid combinations for Marble Wallet
+2024-12-09 11:43:11,256 - INFO - Processing wallet 210/366: Martian Wallet
+2024-12-09 11:43:11,257 - INFO - Found 2 valid combinations for Martian Wallet
+2024-12-09 11:43:11,257 - INFO - Processing wallet 211/366: Mass
+2024-12-09 11:43:11,257 - INFO - Found 1 valid combinations for Mass
+2024-12-09 11:43:11,257 - INFO - Processing wallet 212/366: MathWallet
+2024-12-09 11:43:11,257 - INFO - Found 1 valid combinations for MathWallet
+2024-12-09 11:43:11,257 - INFO - Processing wallet 213/366: Matic Wallet
+2024-12-09 11:43:11,257 - INFO - Processing wallet 214/366: MetaMask
+2024-12-09 11:43:11,258 - INFO - Found 1 valid combinations for MetaMask
+2024-12-09 11:43:11,258 - INFO - Processing wallet 215/366: Metal Pay
+2024-12-09 11:43:11,258 - INFO - Found 1 valid combinations for Metal Pay
+2024-12-09 11:43:11,258 - INFO - Processing wallet 216/366: Metamask
+2024-12-09 11:43:11,259 - INFO - Found 1 valid combinations for Metamask
+2024-12-09 11:43:11,259 - INFO - Processing wallet 217/366: Micro Lumens
+2024-12-09 11:43:11,259 - INFO - Found 2 valid combinations for Micro Lumens
+2024-12-09 11:43:11,259 - INFO - Processing wallet 218/366: Midas.eco
+2024-12-09 11:43:11,259 - INFO - Processing wallet 219/366: Minerva Wallet
+2024-12-09 11:43:11,260 - INFO - Found 1 valid combinations for Minerva Wallet
+2024-12-09 11:43:11,260 - INFO - Processing wallet 220/366: MiniPay
+2024-12-09 11:43:11,260 - INFO - Found 1 valid combinations for MiniPay
+2024-12-09 11:43:11,260 - INFO - Processing wallet 221/366: MintMe.com Coin Wallet
+2024-12-09 11:43:11,261 - INFO - Processing wallet 222/366: Mitex
+2024-12-09 11:43:11,261 - INFO - Processing wallet 223/366: MoWallet
+2024-12-09 11:43:11,261 - INFO - Processing wallet 224/366: ModulTrade
+2024-12-09 11:43:11,261 - INFO - Processing wallet 225/366: Monarch
+2024-12-09 11:43:11,262 - INFO - Found 2 valid combinations for Monarch
+2024-12-09 11:43:11,262 - INFO - Processing wallet 226/366: Monolith
+2024-12-09 11:43:11,262 - INFO - Found 2 valid combinations for Monolith
+2024-12-09 11:43:11,262 - INFO - Processing wallet 227/366: Multis
+2024-12-09 11:43:11,262 - INFO - Processing wallet 228/366: MyConstant
+2024-12-09 11:43:11,262 - INFO - Processing wallet 229/366: MyCrypto
+2024-12-09 11:43:11,262 - INFO - Processing wallet 230/366: MyEtherWallet
+2024-12-09 11:43:11,264 - INFO - Processing wallet 231/366: NEO Tracker
+2024-12-09 11:43:11,265 - INFO - Found 2 valid combinations for NEO Tracker
+2024-12-09 11:43:11,265 - INFO - Processing wallet 232/366: NEON
+2024-12-09 11:43:11,265 - INFO - Found 1 valid combinations for NEON
+2024-12-09 11:43:11,265 - INFO - Processing wallet 233/366: NGRAVE GRAPHENE
+2024-12-09 11:43:11,266 - INFO - Processing wallet 234/366: NGRAVE ZERO
+2024-12-09 11:43:11,266 - INFO - Processing wallet 235/366: NOW Wallet
+2024-12-09 11:43:11,266 - INFO - Found 1 valid combinations for NOW Wallet
+2024-12-09 11:43:11,266 - INFO - Processing wallet 236/366: Narval
+2024-12-09 11:43:11,266 - INFO - Found 1 valid combinations for Narval
+2024-12-09 11:43:11,266 - INFO - Processing wallet 237/366: Nash
+2024-12-09 11:43:11,266 - INFO - Found 1 valid combinations for Nash
+2024-12-09 11:43:11,266 - INFO - Processing wallet 238/366: Nimiq
+2024-12-09 11:43:11,266 - INFO - Processing wallet 239/366: Nova Wallet
+2024-12-09 11:43:11,266 - INFO - Found 1 valid combinations for Nova Wallet
+2024-12-09 11:43:11,266 - INFO - Processing wallet 240/366: Numio
+2024-12-09 11:43:11,266 - INFO - Processing wallet 241/366: OKX Wallet
+2024-12-09 11:43:11,266 - INFO - Processing wallet 242/366: OWNR Wallet
+2024-12-09 11:43:11,267 - INFO - Processing wallet 243/366: Obvious
+2024-12-09 11:43:11,267 - INFO - Found 1 valid combinations for Obvious
+2024-12-09 11:43:11,267 - INFO - Processing wallet 244/366: OctoBit.IO
+2024-12-09 11:43:11,267 - INFO - Processing wallet 245/366: Omni
+2024-12-09 11:43:11,267 - INFO - Found 1 valid combinations for Omni
+2024-12-09 11:43:11,267 - INFO - Processing wallet 246/366: OmniWallet
+2024-12-09 11:43:11,267 - INFO - Found 1 valid combinations for OmniWallet
+2024-12-09 11:43:11,267 - INFO - Processing wallet 247/366: Onchain Custodian
+2024-12-09 11:43:11,277 - INFO - Processing wallet 248/366: OneKey
+2024-12-09 11:43:11,277 - INFO - Found 1 valid combinations for OneKey
+2024-12-09 11:43:11,277 - INFO - Processing wallet 249/366: OpenDime
+2024-12-09 11:43:11,277 - INFO - Found 1 valid combinations for OpenDime
+2024-12-09 11:43:11,277 - INFO - Processing wallet 250/366: Opera Touch
+2024-12-09 11:43:11,277 - INFO - Found 1 valid combinations for Opera Touch
+2024-12-09 11:43:11,277 - INFO - Processing wallet 251/366: OraSaifu
+2024-12-09 11:43:11,277 - INFO - Processing wallet 252/366: Ownbit
+2024-12-09 11:43:11,277 - INFO - Found 1 valid combinations for Ownbit
+2024-12-09 11:43:11,277 - INFO - Processing wallet 253/366: PTPWallet
+2024-12-09 11:43:11,277 - INFO - Found 1 valid combinations for PTPWallet
+2024-12-09 11:43:11,277 - INFO - Processing wallet 254/366: Pandora's Wallet
+2024-12-09 11:43:11,282 - INFO - Processing wallet 255/366: Phantom
+2024-12-09 11:43:11,282 - INFO - Found 1 valid combinations for Phantom
+2024-12-09 11:43:11,282 - INFO - Processing wallet 256/366: Phantom Wallet
+2024-12-09 11:43:11,282 - INFO - Found 1 valid combinations for Phantom Wallet
+2024-12-09 11:43:11,282 - INFO - Processing wallet 257/366: Pillar
+2024-12-09 11:43:11,282 - INFO - Found 2 valid combinations for Pillar
+2024-12-09 11:43:11,282 - INFO - Processing wallet 258/366: PipWallet
+2024-12-09 11:43:11,282 - INFO - Found 1 valid combinations for PipWallet
+2024-12-09 11:43:11,283 - INFO - Processing wallet 259/366: Plena Finance
+2024-12-09 11:43:11,283 - INFO - Found 1 valid combinations for Plena Finance
+2024-12-09 11:43:11,283 - INFO - Processing wallet 260/366: Poltergeist Wallet
+2024-12-09 11:43:11,285 - INFO - Found 2 valid combinations for Poltergeist Wallet
+2024-12-09 11:43:11,285 - INFO - Processing wallet 261/366: Portal
+2024-12-09 11:43:11,285 - INFO - Found 2 valid combinations for Portal
+2024-12-09 11:43:11,285 - INFO - Processing wallet 262/366: Prokey Optimum
+2024-12-09 11:43:11,289 - INFO - Found 1 valid combinations for Prokey Optimum
+2024-12-09 11:43:11,289 - INFO - Processing wallet 263/366: PumaPay
+2024-12-09 11:43:11,289 - INFO - Found 1 valid combinations for PumaPay
+2024-12-09 11:43:11,289 - INFO - Processing wallet 264/366: Qredo
+2024-12-09 11:43:11,289 - INFO - Processing wallet 265/366: Rabby Wallet
+2024-12-09 11:43:11,290 - INFO - Processing wallet 266/366: Rainbow
+2024-12-09 11:43:11,290 - INFO - Found 2 valid combinations for Rainbow
+2024-12-09 11:43:11,290 - INFO - Processing wallet 267/366: Rainmaker
+2024-12-09 11:43:11,290 - INFO - Found 2 valid combinations for Rainmaker
+2024-12-09 11:43:11,290 - INFO - Processing wallet 268/366: Raise Finance
+2024-12-09 11:43:11,290 - INFO - Found 1 valid combinations for Raise Finance
+2024-12-09 11:43:11,290 - INFO - Processing wallet 269/366: Revuto
+2024-12-09 11:43:11,290 - INFO - Processing wallet 270/366: Rivo.xyz
+2024-12-09 11:43:11,290 - INFO - Processing wallet 271/366: Robinhood
+2024-12-09 11:43:11,290 - INFO - Found 1 valid combinations for Robinhood
+2024-12-09 11:43:11,290 - INFO - Processing wallet 272/366: Ronin
+2024-12-09 11:43:11,290 - INFO - Found 1 valid combinations for Ronin
+2024-12-09 11:43:11,290 - INFO - Processing wallet 273/366: Ronin Wallet
+2024-12-09 11:43:11,290 - INFO - Found 1 valid combinations for Ronin Wallet
+2024-12-09 11:43:11,290 - INFO - Processing wallet 274/366: RuufPay
+2024-12-09 11:43:11,290 - INFO - Processing wallet 275/366: SINOHOPE
+2024-12-09 11:43:11,291 - INFO - Processing wallet 276/366: Saakuru
+2024-12-09 11:43:11,291 - INFO - Found 1 valid combinations for Saakuru
+2024-12-09 11:43:11,291 - INFO - Processing wallet 277/366: Safe
+2024-12-09 11:43:11,291 - INFO - Found 1 valid combinations for Safe
+2024-12-09 11:43:11,291 - INFO - Processing wallet 278/366: SafePal
+2024-12-09 11:43:11,291 - INFO - Found 1 valid combinations for SafePal
+2024-12-09 11:43:11,291 - INFO - Processing wallet 279/366: SafePal Cypher
+2024-12-09 11:43:11,291 - INFO - Found 2 valid combinations for SafePal Cypher
+2024-12-09 11:43:11,291 - INFO - Processing wallet 280/366: SafePal S1 Hardware Wallet
+2024-12-09 11:43:11,295 - INFO - Processing wallet 281/366: Samourai Wallet
+2024-12-09 11:43:11,296 - INFO - Processing wallet 282/366: SatoWallet
+2024-12-09 11:43:11,296 - INFO - Processing wallet 283/366: Saymatik
+2024-12-09 11:43:11,296 - INFO - Processing wallet 284/366: Secalot
+2024-12-09 11:43:11,296 - INFO - Processing wallet 285/366: SelfKey
+2024-12-09 11:43:11,296 - INFO - Found 1 valid combinations for SelfKey
+2024-12-09 11:43:11,296 - INFO - Processing wallet 286/366: Sender
+2024-12-09 11:43:11,296 - INFO - Found 2 valid combinations for Sender
+2024-12-09 11:43:11,296 - INFO - Processing wallet 287/366: Sepior
+2024-12-09 11:43:11,296 - INFO - Processing wallet 288/366: Sequence
+2024-12-09 11:43:11,296 - INFO - Found 1 valid combinations for Sequence
+2024-12-09 11:43:11,296 - INFO - Processing wallet 289/366: SimpleHold Wallet
+2024-12-09 11:43:11,298 - INFO - Found 1 valid combinations for SimpleHold Wallet
+2024-12-09 11:43:11,298 - INFO - Processing wallet 290/366: Snowflake
+2024-12-09 11:43:11,299 - INFO - Found 2 valid combinations for Snowflake
+2024-12-09 11:43:11,299 - INFO - Processing wallet 291/366: Solflare
+2024-12-09 11:43:11,299 - INFO - Found 1 valid combinations for Solflare
+2024-12-09 11:43:11,299 - INFO - Processing wallet 292/366: Solflare Wallet
+2024-12-09 11:43:11,300 - INFO - Found 1 valid combinations for Solflare Wallet
+2024-12-09 11:43:11,300 - INFO - Processing wallet 293/366: Sorted Wallet
+2024-12-09 11:43:11,300 - INFO - Found 1 valid combinations for Sorted Wallet
+2024-12-09 11:43:11,300 - INFO - Processing wallet 294/366: Soul Wallet
+2024-12-09 11:43:11,300 - INFO - Found 1 valid combinations for Soul Wallet
+2024-12-09 11:43:11,301 - INFO - Processing wallet 295/366: Spectrocoin
+2024-12-09 11:43:11,301 - INFO - Processing wallet 296/366: Spend
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for Spend
+2024-12-09 11:43:11,301 - INFO - Processing wallet 297/366: Spot Wallet
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for Spot Wallet
+2024-12-09 11:43:11,301 - INFO - Processing wallet 298/366: Squads
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for Squads
+2024-12-09 11:43:11,301 - INFO - Processing wallet 299/366: Stackup
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for Stackup
+2024-12-09 11:43:11,301 - INFO - Processing wallet 300/366: Stakenet
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for Stakenet
+2024-12-09 11:43:11,301 - INFO - Processing wallet 301/366: StrongCoin
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for StrongCoin
+2024-12-09 11:43:11,301 - INFO - Processing wallet 302/366: Sugi
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for Sugi
+2024-12-09 11:43:11,301 - INFO - Processing wallet 303/366: Swap.online
+2024-12-09 11:43:11,301 - INFO - Processing wallet 304/366: Swirlwallet
+2024-12-09 11:43:11,301 - INFO - Found 1 valid combinations for Swirlwallet
+2024-12-09 11:43:11,301 - INFO - Processing wallet 305/366: Swiss Bank In Your Pocket
+2024-12-09 11:43:11,305 - INFO - Processing wallet 306/366: Sygnum Bank
+2024-12-09 11:43:11,305 - INFO - Processing wallet 307/366: Sylo
+2024-12-09 11:43:11,305 - INFO - Processing wallet 308/366: Taho Wallet (Formerly Tally Ho)
+2024-12-09 11:43:11,644 - INFO - Processing wallet 309/366: Talisman
+2024-12-09 11:43:11,644 - INFO - Found 2 valid combinations for Talisman
+2024-12-09 11:43:11,644 - INFO - Processing wallet 310/366: Tangem
+2024-12-09 11:43:11,644 - INFO - Found 1 valid combinations for Tangem
+2024-12-09 11:43:11,644 - INFO - Processing wallet 311/366: Temexe
+2024-12-09 11:43:11,644 - INFO - Processing wallet 312/366: TenX
+2024-12-09 11:43:11,644 - INFO - Processing wallet 313/366: Timeless X
+2024-12-09 11:43:11,644 - INFO - Processing wallet 314/366: Tokel Platform
+2024-12-09 11:43:11,644 - INFO - Processing wallet 315/366: Token Pockets
+2024-12-09 11:43:11,645 - INFO - Found 1 valid combinations for Token Pockets
+2024-12-09 11:43:11,645 - INFO - Processing wallet 316/366: TokenPocket
+2024-12-09 11:43:11,645 - INFO - Found 1 valid combinations for TokenPocket
+2024-12-09 11:43:11,645 - INFO - Processing wallet 317/366: Tokit
+2024-12-09 11:43:11,645 - INFO - Processing wallet 318/366: Torus
+2024-12-09 11:43:11,645 - INFO - Found 1 valid combinations for Torus
+2024-12-09 11:43:11,645 - INFO - Processing wallet 319/366: Trezor Model T
+2024-12-09 11:43:11,645 - INFO - Processing wallet 320/366: Trezor One
+2024-12-09 11:43:11,645 - INFO - Processing wallet 321/366: Trust Wallet
+2024-12-09 11:43:11,645 - INFO - Found 1 valid combinations for Trust Wallet
+2024-12-09 11:43:11,645 - INFO - Processing wallet 322/366: TrustWallet
+2024-12-09 11:43:11,646 - INFO - Found 1 valid combinations for TrustWallet
+2024-12-09 11:43:11,646 - INFO - Processing wallet 323/366: Trustology
+2024-12-09 11:43:11,646 - INFO - Found 1 valid combinations for Trustology
+2024-12-09 11:43:11,646 - INFO - Processing wallet 324/366: UberPay
+2024-12-09 11:43:11,646 - INFO - Processing wallet 325/366: Ultimate
+2024-12-09 11:43:11,646 - INFO - Found 1 valid combinations for Ultimate
+2024-12-09 11:43:11,646 - INFO - Processing wallet 326/366: UniPass
+2024-12-09 11:43:11,646 - INFO - Found 1 valid combinations for UniPass
+2024-12-09 11:43:11,646 - INFO - Processing wallet 327/366: Unstoppable Wallet
+2024-12-09 11:43:11,665 - INFO - Found 1 valid combinations for Unstoppable Wallet
+2024-12-09 11:43:11,665 - INFO - Processing wallet 328/366: Uphold
+2024-12-09 11:43:11,665 - INFO - Found 1 valid combinations for Uphold
+2024-12-09 11:43:11,665 - INFO - Processing wallet 329/366: Utila
+2024-12-09 11:43:11,665 - INFO - Processing wallet 330/366: Venly
+2024-12-09 11:43:11,665 - INFO - Processing wallet 331/366: Vidulum
+2024-12-09 11:43:11,665 - INFO - Processing wallet 332/366: Virgo Wallet
+2024-12-09 11:43:11,665 - INFO - Found 1 valid combinations for Virgo Wallet
+2024-12-09 11:43:11,665 - INFO - Processing wallet 333/366: Vision
+2024-12-09 11:43:11,665 - INFO - Found 2 valid combinations for Vision
+2024-12-09 11:43:11,665 - INFO - Processing wallet 334/366: WallETH
+2024-12-09 11:43:11,665 - INFO - Found 1 valid combinations for WallETH
+2024-12-09 11:43:11,665 - INFO - Processing wallet 335/366: Wallet 3
+2024-12-09 11:43:11,665 - INFO - Processing wallet 336/366: WalletConnect
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for WalletConnect
+2024-12-09 11:43:11,666 - INFO - Processing wallet 337/366: WalletKit
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for WalletKit
+2024-12-09 11:43:11,666 - INFO - Processing wallet 338/366: Wallmer
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for Wallmer
+2024-12-09 11:43:11,666 - INFO - Processing wallet 339/366: Wasabi Wallet
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for Wasabi Wallet
+2024-12-09 11:43:11,666 - INFO - Processing wallet 340/366: Waves
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for Waves
+2024-12-09 11:43:11,666 - INFO - Processing wallet 341/366: WeDeFi
+2024-12-09 11:43:11,666 - INFO - Processing wallet 342/366: Web3asy
+2024-12-09 11:43:11,666 - INFO - Processing wallet 343/366: Wigwam
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for Wigwam
+2024-12-09 11:43:11,666 - INFO - Processing wallet 344/366: Wirex
+2024-12-09 11:43:11,666 - INFO - Processing wallet 345/366: XDEFI Wallet
+2024-12-09 11:43:11,666 - INFO - Processing wallet 346/366: XWallet
+2024-12-09 11:43:11,666 - INFO - Processing wallet 347/366: Xverse
+2024-12-09 11:43:11,666 - INFO - Processing wallet 348/366: YaspFi
+2024-12-09 11:43:11,666 - INFO - Processing wallet 349/366: ZebPay
+2024-12-09 11:43:11,666 - INFO - Processing wallet 350/366: Zelcore
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for Zelcore
+2024-12-09 11:43:11,666 - INFO - Processing wallet 351/366: ZenGo Wallet
+2024-12-09 11:43:11,666 - INFO - Processing wallet 352/366: Zengo
+2024-12-09 11:43:11,666 - INFO - Processing wallet 353/366: Zerion
+2024-12-09 11:43:11,666 - INFO - Found 1 valid combinations for Zerion
+2024-12-09 11:43:11,666 - INFO - Processing wallet 354/366: Zypto Wallet
+2024-12-09 11:43:11,666 - INFO - Processing wallet 355/366: atato Custody
+2024-12-09 11:43:11,667 - INFO - Processing wallet 356/366: chivo
+2024-12-09 11:43:11,667 - INFO - Processing wallet 357/366: eToroX
+2024-12-09 11:43:11,667 - INFO - Processing wallet 358/366: iToken
+2024-12-09 11:43:11,667 - INFO - Found 1 valid combinations for iToken
+2024-12-09 11:43:11,667 - INFO - Processing wallet 359/366: imKey
+2024-12-09 11:43:11,667 - INFO - Processing wallet 360/366: imTOKEN
+2024-12-09 11:43:11,667 - INFO - Processing wallet 361/366: imToken
+2024-12-09 11:43:11,667 - INFO - Processing wallet 362/366: myEtherWallet
+2024-12-09 11:43:11,669 - INFO - Processing wallet 363/366: openfort
+2024-12-09 11:43:11,669 - INFO - Found 1 valid combinations for openfort
+2024-12-09 11:43:11,669 - INFO - Processing wallet 364/366: pier wallet
+2024-12-09 11:43:11,669 - INFO - Found 1 valid combinations for pier wallet
+2024-12-09 11:43:11,669 - INFO - Processing wallet 365/366: portis
+2024-12-09 11:43:11,669 - INFO - Found 1 valid combinations for portis
+2024-12-09 11:43:11,669 - INFO - Processing wallet 366/366: zkBob Private Wallet
+2024-12-09 11:43:11,675 - INFO - Completed processing. Found word combinations for 209 wallet names
+2024-12-09 11:43:11,675 - INFO - Analysis complete

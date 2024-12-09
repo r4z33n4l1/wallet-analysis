@@ -15,9 +15,29 @@
                 "argent"
             ]
         ],
+        "Armory": [
+            [
+                "armory"
+            ]
+        ],
         "Atomic": [
             [
                 "atomic"
+            ]
+        ],
+        "Backpack": [
+            [
+                "backpack"
+            ]
+        ],
+        "Ballet": [
+            [
+                "ballet"
+            ]
+        ],
+        "Bankera": [
+            [
+                "bankera"
             ]
         ],
         "Bitsy": [
@@ -35,9 +55,24 @@
                 "caesium"
             ]
         ],
+        "Candide": [
+            [
+                "candide"
+            ]
+        ],
+        "Carbon": [
+            [
+                "carbon"
+            ]
+        ],
         "Casa": [
             [
                 "casa"
+            ]
+        ],
+        "Cashmere": [
+            [
+                "cashmere"
             ]
         ],
         "Castle": [
@@ -70,6 +105,11 @@
                 "edge"
             ]
         ],
+        "Electrum": [
+            [
+                "electrum"
+            ]
+        ],
         "Exodus": [
             [
                 "exodus"
@@ -95,6 +135,16 @@
                 "frontier"
             ]
         ],
+        "Gridlock": [
+            [
+                "gridlock"
+            ]
+        ],
+        "Keystone": [
+            [
+                "keystone"
+            ]
+        ],
         "Labyrinth": [
             [
                 "labyrinth"
@@ -113,6 +163,16 @@
         "Mass": [
             [
                 "mass"
+            ]
+        ],
+        "Monarch": [
+            [
+                "monarch"
+            ]
+        ],
+        "Monolith": [
+            [
+                "monolith"
             ]
         ],
         "NEON": [
@@ -140,6 +200,26 @@
                 "phantom"
             ]
         ],
+        "Pillar": [
+            [
+                "pillar"
+            ]
+        ],
+        "Portal": [
+            [
+                "portal"
+            ]
+        ],
+        "Rainbow": [
+            [
+                "rainbow"
+            ]
+        ],
+        "Rainmaker": [
+            [
+                "rainmaker"
+            ]
+        ],
         "Ronin": [
             [
                 "ronin"
@@ -150,9 +230,19 @@
                 "safe"
             ]
         ],
+        "Sender": [
+            [
+                "sender"
+            ]
+        ],
         "Sequence": [
             [
                 "sequence"
+            ]
+        ],
+        "Snowflake": [
+            [
+                "snowflake"
             ]
         ],
         "Spend": [
@@ -175,6 +265,11 @@
                 "sugi"
             ]
         ],
+        "Talisman": [
+            [
+                "talisman"
+            ]
+        ],
         "Torus": [
             [
                 "torus"
@@ -190,6 +285,11 @@
                 "uphold"
             ]
         ],
+        "Vision": [
+            [
+                "vision"
+            ]
+        ],
         "Waves": [
             [
                 "waves"
@@ -202,6 +302,12 @@
         ]
     },
     "2": {
+        "ADAMANT Messenger": [
+            [
+                "adamant",
+                "messenger"
+            ]
+        ],
         "Airgap": [
             [
                 "air",
@@ -226,13 +332,16 @@
                 "wallet"
             ]
         ],
+        "Anchorage Digital": [
+            [
+                "anchorage",
+                "digital"
+            ]
+        ],
         "Armory": [
             [
                 "arm",
                 "ory"
-            ],
-            [
-                "armory"
             ]
         ],
         "Atomic Wallet": [
@@ -257,27 +366,18 @@
             [
                 "back",
                 "pack"
-            ],
-            [
-                "backpack"
             ]
         ],
         "Ballet": [
             [
                 "bal",
                 "let"
-            ],
-            [
-                "ballet"
             ]
         ],
         "Bankera": [
             [
                 "bank",
                 "era"
-            ],
-            [
-                "bankera"
             ]
         ],
         "BitBox": [
@@ -334,6 +434,12 @@
                 "avos"
             ]
         ],
+        "Brave Software": [
+            [
+                "brave",
+                "software"
+            ]
+        ],
         "Brume Wallet": [
             [
                 "brume",
@@ -374,18 +480,12 @@
             [
                 "cand",
                 "ide"
-            ],
-            [
-                "candide"
             ]
         ],
         "Carbon": [
             [
                 "car",
                 "bon"
-            ],
-            [
-                "carbon"
             ]
         ],
         "Cash App": [
@@ -398,9 +498,6 @@
             [
                 "cash",
                 "mere"
-            ],
-            [
-                "cashmere"
             ]
         ],
         "Chaching": [
@@ -413,6 +510,12 @@
                 "hing"
             ]
         ],
+        "Circle Invest": [
+            [
+                "circle",
+                "invest"
+            ]
+        ],
         "Civic Wallet": [
             [
                 "civic",
@@ -423,6 +526,12 @@
             [
                 "coffee",
                 "wallet"
+            ]
+        ],
+        "Coin Collect": [
+            [
+                "coin",
+                "collect"
             ]
         ],
         "Coin Wallet": [
@@ -505,6 +614,12 @@
                 "teel"
             ]
         ],
+        "Cypher Wallet": [
+            [
+                "cypher",
+                "wallet"
+            ]
+        ],
         "Daedalus Wallet": [
             [
                 "daedalus",
@@ -533,15 +648,18 @@
             [
                 "elect",
                 "rum"
-            ],
-            [
-                "electrum"
             ]
         ],
         "Etherwall": [
             [
                 "ether",
                 "wall"
+            ]
+        ],
+        "Fearless Wallet": [
+            [
+                "fearless",
+                "wallet"
             ]
         ],
         "Fireblocks": [
@@ -584,9 +702,6 @@
             [
                 "grid",
                 "lock"
-            ],
-            [
-                "gridlock"
             ]
         ],
         "HASHWallet": [
@@ -611,6 +726,18 @@
             [
                 "hexa",
                 "wallet"
+            ]
+        ],
+        "Holdstation": [
+            [
+                "hold",
+                "station"
+            ]
+        ],
+        "HolyTransaction": [
+            [
+                "holy",
+                "transaction"
             ]
         ],
         "IndieSquare": [
@@ -645,9 +772,12 @@
             [
                 "keys",
                 "tone"
-            ],
+            ]
+        ],
+        "Kraken Wallet": [
             [
-                "keystone"
+                "kraken",
+                "wallet"
             ]
         ],
         "LOBSTR": [
@@ -656,15 +786,39 @@
                 "str"
             ]
         ],
+        "Ledger Blue": [
+            [
+                "ledger",
+                "blue"
+            ]
+        ],
+        "Locksmith Wallet": [
+            [
+                "locksmith",
+                "wallet"
+            ]
+        ],
         "MEW wallet": [
             [
                 "mew",
                 "wallet"
             ]
         ],
+        "Mangos Wallet": [
+            [
+                "mangos",
+                "wallet"
+            ]
+        ],
         "Marble Wallet": [
             [
                 "marble",
+                "wallet"
+            ]
+        ],
+        "Martian Wallet": [
+            [
+                "martian",
                 "wallet"
             ]
         ],
@@ -692,6 +846,12 @@
                 "mask"
             ]
         ],
+        "Micro Lumens": [
+            [
+                "micro",
+                "lumens"
+            ]
+        ],
         "Minerva Wallet": [
             [
                 "minerva",
@@ -708,18 +868,18 @@
             [
                 "mon",
                 "arch"
-            ],
-            [
-                "monarch"
             ]
         ],
         "Monolith": [
             [
                 "mono",
                 "lith"
-            ],
+            ]
+        ],
+        "NEO Tracker": [
             [
-                "monolith"
+                "neo",
+                "tracker"
             ]
         ],
         "NOW Wallet": [
@@ -786,9 +946,6 @@
             [
                 "pil",
                 "lar"
-            ],
-            [
-                "pillar"
             ]
         ],
         "PipWallet": [
@@ -803,13 +960,16 @@
                 "finance"
             ]
         ],
+        "Poltergeist Wallet": [
+            [
+                "poltergeist",
+                "wallet"
+            ]
+        ],
         "Portal": [
             [
                 "por",
                 "tal"
-            ],
-            [
-                "portal"
             ]
         ],
         "PumaPay": [
@@ -822,18 +982,12 @@
             [
                 "rain",
                 "bow"
-            ],
-            [
-                "rainbow"
             ]
         ],
         "Rainmaker": [
             [
                 "rain",
                 "maker"
-            ],
-            [
-                "rainmaker"
             ]
         ],
         "Raise Finance": [
@@ -876,18 +1030,12 @@
             [
                 "sen",
                 "der"
-            ],
-            [
-                "sender"
             ]
         ],
         "Snowflake": [
             [
                 "snow",
                 "flake"
-            ],
-            [
-                "snowflake"
             ]
         ],
         "Solflare": [
@@ -936,9 +1084,6 @@
             [
                 "talis",
                 "man"
-            ],
-            [
-                "talisman"
             ]
         ],
         "Tangem": [
@@ -999,9 +1144,6 @@
             [
                 "vis",
                 "ion"
-            ],
-            [
-                "vision"
             ]
         ],
         "WallETH": [
@@ -1072,11 +1214,35 @@
         ]
     },
     "3": {
+        "ADAMANT Messenger": [
+            [
+                "ada",
+                "mant",
+                "messenger"
+            ],
+            [
+                "adam",
+                "ant",
+                "messenger"
+            ]
+        ],
         "Ambire Wallet": [
             [
                 "amb",
                 "ire",
                 "wallet"
+            ]
+        ],
+        "Anchorage Digital": [
+            [
+                "anchor",
+                "age",
+                "digital"
+            ],
+            [
+                "anchorage",
+                "dig",
+                "ital"
             ]
         ],
         "Bitcoin Well": [
@@ -1114,15 +1280,18 @@
                 "wallet"
             ]
         ],
+        "Blockstream Green": [
+            [
+                "block",
+                "stream",
+                "green"
+            ]
+        ],
         "Brave Software": [
             [
                 "brave",
                 "soft",
                 "ware"
-            ],
-            [
-                "brave",
-                "software"
             ]
         ],
         "Circle Invest": [
@@ -1130,10 +1299,6 @@
                 "circle",
                 "inv",
                 "est"
-            ],
-            [
-                "circle",
-                "invest"
             ]
         ],
         "Coin Collect": [
@@ -1141,10 +1306,6 @@
                 "coin",
                 "col",
                 "lect"
-            ],
-            [
-                "coin",
-                "collect"
             ]
         ],
         "Coinbase Wallet": [
@@ -1173,9 +1334,12 @@
                 "cyp",
                 "her",
                 "wallet"
-            ],
+            ]
+        ],
+        "Ethos Universal Wallet": [
             [
-                "cypher",
+                "ethos",
+                "universal",
                 "wallet"
             ]
         ],
@@ -1183,10 +1347,6 @@
             [
                 "fear",
                 "less",
-                "wallet"
-            ],
-            [
-                "fearless",
                 "wallet"
             ]
         ],
@@ -1211,12 +1371,20 @@
                 "ion"
             ],
             [
-                "hold",
-                "station"
-            ],
-            [
                 "holds",
                 "tat",
+                "ion"
+            ]
+        ],
+        "HolyTransaction": [
+            [
+                "holy",
+                "trans",
+                "action"
+            ],
+            [
+                "holy",
+                "transact",
                 "ion"
             ]
         ],
@@ -1232,20 +1400,12 @@
                 "kra",
                 "ken",
                 "wallet"
-            ],
-            [
-                "kraken",
-                "wallet"
             ]
         ],
         "Ledger Blue": [
             [
                 "led",
                 "ger",
-                "blue"
-            ],
-            [
-                "ledger",
                 "blue"
             ]
         ],
@@ -1254,20 +1414,12 @@
                 "lock",
                 "smith",
                 "wallet"
-            ],
-            [
-                "locksmith",
-                "wallet"
             ]
         ],
         "Mangos Wallet": [
             [
                 "man",
                 "gos",
-                "wallet"
-            ],
-            [
-                "mangos",
                 "wallet"
             ]
         ],
@@ -1276,10 +1428,6 @@
                 "mart",
                 "ian",
                 "wallet"
-            ],
-            [
-                "martian",
-                "wallet"
             ]
         ],
         "Micro Lumens": [
@@ -1287,10 +1435,6 @@
                 "micro",
                 "lum",
                 "ens"
-            ],
-            [
-                "micro",
-                "lumens"
             ]
         ],
         "NEO Tracker": [
@@ -1298,10 +1442,6 @@
                 "neo",
                 "trac",
                 "ker"
-            ],
-            [
-                "neo",
-                "tracker"
             ]
         ],
         "Prokey Optimum": [
@@ -1309,6 +1449,13 @@
                 "pro",
                 "key",
                 "optimum"
+            ]
+        ],
+        "SafePal Cypher": [
+            [
+                "safe",
+                "pal",
+                "cypher"
             ]
         ],
         "SimpleHold Wallet": [
@@ -1327,16 +1474,33 @@
         ]
     },
     "4": {
+        "ADAMANT Messenger": [
+            [
+                "adamant",
+                "mes",
+                "sen",
+                "ger"
+            ]
+        ],
+        "Anchorage Digital": [
+            [
+                "anc",
+                "hor",
+                "age",
+                "digital"
+            ],
+            [
+                "anchor",
+                "age",
+                "dig",
+                "ital"
+            ]
+        ],
         "Blockstream Green": [
             [
                 "block",
                 "str",
                 "eam",
-                "green"
-            ],
-            [
-                "block",
-                "stream",
                 "green"
             ]
         ],
@@ -1348,26 +1512,20 @@
                 "wallet"
             ]
         ],
+        "Ethos Universal Wallet": [
+            [
+                "ethos",
+                "uni",
+                "versal",
+                "wallet"
+            ]
+        ],
         "HolyTransaction": [
             [
                 "holy",
                 "trans",
                 "act",
                 "ion"
-            ],
-            [
-                "holy",
-                "trans",
-                "action"
-            ],
-            [
-                "holy",
-                "transact",
-                "ion"
-            ],
-            [
-                "holy",
-                "transaction"
             ]
         ],
         "Poltergeist Wallet": [
@@ -1375,10 +1533,6 @@
                 "pol",
                 "ter",
                 "geist",
-                "wallet"
-            ],
-            [
-                "poltergeist",
                 "wallet"
             ]
         ],
@@ -1388,11 +1542,6 @@
                 "pal",
                 "cyp",
                 "her"
-            ],
-            [
-                "safe",
-                "pal",
-                "cypher"
             ]
         ]
     },
@@ -1406,31 +1555,11 @@
                 "ger"
             ],
             [
-                "ada",
-                "mant",
-                "messenger"
-            ],
-            [
                 "adam",
                 "ant",
                 "mes",
                 "sen",
                 "ger"
-            ],
-            [
-                "adam",
-                "ant",
-                "messenger"
-            ],
-            [
-                "adamant",
-                "mes",
-                "sen",
-                "ger"
-            ],
-            [
-                "adamant",
-                "messenger"
             ]
         ],
         "Anchorage Digital": [
@@ -1440,32 +1569,6 @@
                 "age",
                 "dig",
                 "ital"
-            ],
-            [
-                "anc",
-                "hor",
-                "age",
-                "digital"
-            ],
-            [
-                "anchor",
-                "age",
-                "dig",
-                "ital"
-            ],
-            [
-                "anchor",
-                "age",
-                "digital"
-            ],
-            [
-                "anchorage",
-                "dig",
-                "ital"
-            ],
-            [
-                "anchorage",
-                "digital"
             ]
         ],
         "Ethos Universal Wallet": [
@@ -1475,17 +1578,58 @@
                 "ver",
                 "sal",
                 "wallet"
+            ]
+        ],
+        "LEDGER CRYPTOSTEEL CAPSULE SOLO": [
+            [
+                "ledger",
+                "crypto",
+                "steel",
+                "capsule",
+                "solo"
             ],
             [
-                "ethos",
-                "uni",
-                "versal",
-                "wallet"
+                "ledger",
+                "cryptos",
+                "teel",
+                "capsule",
+                "solo"
+            ]
+        ]
+    },
+    "6": {
+        "LEDGER CRYPTOSTEEL CAPSULE SOLO": [
+            [
+                "led",
+                "ger",
+                "crypto",
+                "steel",
+                "capsule",
+                "solo"
             ],
             [
-                "ethos",
-                "universal",
-                "wallet"
+                "led",
+                "ger",
+                "cryptos",
+                "teel",
+                "capsule",
+                "solo"
+            ],
+            [
+                "ledger",
+                "crypto",
+                "steel",
+                "caps",
+                "ule",
+                "solo"
+            ],
+            [
+                "ledger",
+                "cryptos",
+                "teel",
+                "caps",
+                "ule",
+                "solo"
             ]
         ]
     },
@@ -1503,56 +1647,10 @@
             [
                 "led",
                 "ger",
-                "crypto",
-                "steel",
-                "capsule",
-                "solo"
-            ],
-            [
-                "led",
-                "ger",
                 "cryptos",
                 "teel",
                 "caps",
                 "ule",
-                "solo"
-            ],
-            [
-                "led",
-                "ger",
-                "cryptos",
-                "teel",
-                "capsule",
-                "solo"
-            ],
-            [
-                "ledger",
-                "crypto",
-                "steel",
-                "caps",
-                "ule",
-                "solo"
-            ],
-            [
-                "ledger",
-                "crypto",
-                "steel",
-                "capsule",
-                "solo"
-            ],
-            [
-                "ledger",
-                "cryptos",
-                "teel",
-                "caps",
-                "ule",
-                "solo"
-            ],
-            [
-                "ledger",
-                "cryptos",
-                "teel",
-                "capsule",
                 "solo"
             ]
         ]

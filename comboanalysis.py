@@ -11,10 +11,9 @@ def analyze_combinations():
     
     # Go through each wallet and its combinations
     for wallet_name, combos in combinations.items():
-        # Get the length of first tuple (assuming all tuples for a wallet have same length)
-        if combos:  # Check if there are any combinations
-            combo_length = len(combos[0])
-            length_sorted[combo_length][wallet_name] = combos
+        for combo in combos:
+            combo_length = len(combo)
+            length_sorted[combo_length][wallet_name] = length_sorted[combo_length].get(wallet_name, []) + [combo]
     
     # Convert defaultdict to regular dict for JSON serialization
     # Also sort by combo length
