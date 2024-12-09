@@ -1,0 +1,1298 @@
+{
+    "2": {
+        "Airgap": [
+            [
+                "air",
+                "gap"
+            ]
+        ],
+        "Aladdin Wallet": [
+            [
+                "aladdin",
+                "wallet"
+            ]
+        ],
+        "AlphaWallet": [
+            [
+                "alpha",
+                "wallet"
+            ]
+        ],
+        "AmazeWallet": [
+            [
+                "amaze",
+                "wallet"
+            ]
+        ],
+        "Armory": [
+            [
+                "arm",
+                "ory"
+            ]
+        ],
+        "Atomic Wallet": [
+            [
+                "atomic",
+                "wallet"
+            ]
+        ],
+        "AtomicDEX": [
+            [
+                "atomic",
+                "dex"
+            ]
+        ],
+        "BLS Wallet": [
+            [
+                "bls",
+                "wallet"
+            ]
+        ],
+        "Backpack": [
+            [
+                "back",
+                "pack"
+            ]
+        ],
+        "Ballet": [
+            [
+                "bal",
+                "let"
+            ]
+        ],
+        "Bankera": [
+            [
+                "bank",
+                "era"
+            ]
+        ],
+        "BitBox": [
+            [
+                "bit",
+                "box"
+            ]
+        ],
+        "BitPanda": [
+            [
+                "bit",
+                "panda"
+            ]
+        ],
+        "BitVault": [
+            [
+                "bit",
+                "vault"
+            ]
+        ],
+        "Bitlox": [
+            [
+                "bit",
+                "lox"
+            ]
+        ],
+        "Bitpie": [
+            [
+                "bit",
+                "pie"
+            ]
+        ],
+        "BlockWallet": [
+            [
+                "block",
+                "wallet"
+            ]
+        ],
+        "Blocto": [
+            [
+                "blo",
+                "cto"
+            ]
+        ],
+        "BlueWallet": [
+            [
+                "blue",
+                "wallet"
+            ]
+        ],
+        "Braavos": [
+            [
+                "bra",
+                "avos"
+            ]
+        ],
+        "Brume Wallet": [
+            [
+                "brume",
+                "wallet"
+            ]
+        ],
+        "Bundil": [
+            [
+                "bun",
+                "dil"
+            ]
+        ],
+        "Buntoy": [
+            [
+                "bun",
+                "toy"
+            ]
+        ],
+        "COLDCARD": [
+            [
+                "cold",
+                "card"
+            ]
+        ],
+        "CRYPTOTAG": [
+            [
+                "crypto",
+                "tag"
+            ]
+        ],
+        "Cake Wallet": [
+            [
+                "cake",
+                "wallet"
+            ]
+        ],
+        "Candide": [
+            [
+                "cand",
+                "ide"
+            ]
+        ],
+        "Carbon": [
+            [
+                "car",
+                "bon"
+            ]
+        ],
+        "Cash App": [
+            [
+                "cash",
+                "app"
+            ]
+        ],
+        "Cashmere": [
+            [
+                "cash",
+                "mere"
+            ]
+        ],
+        "Chaching": [
+            [
+                "cha",
+                "ching"
+            ],
+            [
+                "chac",
+                "hing"
+            ]
+        ],
+        "Civic Wallet": [
+            [
+                "civic",
+                "wallet"
+            ]
+        ],
+        "Coffee Wallet": [
+            [
+                "coffee",
+                "wallet"
+            ]
+        ],
+        "Coin Wallet": [
+            [
+                "coin",
+                "wallet"
+            ]
+        ],
+        "CoinField": [
+            [
+                "coin",
+                "field"
+            ]
+        ],
+        "CoinPayments": [
+            [
+                "coin",
+                "payments"
+            ]
+        ],
+        "CoinSpot": [
+            [
+                "coin",
+                "spot"
+            ],
+            [
+                "coins",
+                "pot"
+            ]
+        ],
+        "CoinVault": [
+            [
+                "coin",
+                "vault"
+            ]
+        ],
+        "Coinbase": [
+            [
+                "coin",
+                "base"
+            ]
+        ],
+        "Coinbelly": [
+            [
+                "coin",
+                "belly"
+            ]
+        ],
+        "Coinjar": [
+            [
+                "coin",
+                "jar"
+            ]
+        ],
+        "Coolwallet": [
+            [
+                "cool",
+                "wallet"
+            ]
+        ],
+        "Cregis": [
+            [
+                "cre",
+                "gis"
+            ]
+        ],
+        "Cryptopay": [
+            [
+                "crypto",
+                "pay"
+            ]
+        ],
+        "Cryptosteel": [
+            [
+                "crypto",
+                "steel"
+            ],
+            [
+                "cryptos",
+                "teel"
+            ]
+        ],
+        "Daedalus Wallet": [
+            [
+                "daedalus",
+                "wallet"
+            ]
+        ],
+        "DataCurve": [
+            [
+                "data",
+                "curve"
+            ]
+        ],
+        "Dexwallet": [
+            [
+                "dex",
+                "wallet"
+            ]
+        ],
+        "Dove Wallet": [
+            [
+                "dove",
+                "wallet"
+            ]
+        ],
+        "Electrum": [
+            [
+                "elect",
+                "rum"
+            ]
+        ],
+        "Etherwall": [
+            [
+                "ether",
+                "wall"
+            ]
+        ],
+        "Fireblocks": [
+            [
+                "fire",
+                "blocks"
+            ]
+        ],
+        "Fordefi": [
+            [
+                "for",
+                "defi"
+            ]
+        ],
+        "Frontier Wallet": [
+            [
+                "frontier",
+                "wallet"
+            ]
+        ],
+        "FrostByte": [
+            [
+                "frost",
+                "byte"
+            ]
+        ],
+        "Gatehub": [
+            [
+                "gate",
+                "hub"
+            ]
+        ],
+        "Gem Wallet": [
+            [
+                "gem",
+                "wallet"
+            ]
+        ],
+        "Gridlock": [
+            [
+                "grid",
+                "lock"
+            ]
+        ],
+        "HASHWallet": [
+            [
+                "hash",
+                "wallet"
+            ]
+        ],
+        "HaHa Wallet": [
+            [
+                "haha",
+                "wallet"
+            ]
+        ],
+        "Hex Trust": [
+            [
+                "hex",
+                "trust"
+            ]
+        ],
+        "HexaWallet": [
+            [
+                "hexa",
+                "wallet"
+            ]
+        ],
+        "IndieSquare": [
+            [
+                "indies",
+                "quare"
+            ]
+        ],
+        "Infinito": [
+            [
+                "infin",
+                "ito"
+            ]
+        ],
+        "Infinity Wallet": [
+            [
+                "infinity",
+                "wallet"
+            ]
+        ],
+        "Keepkey": [
+            [
+                "keep",
+                "key"
+            ]
+        ],
+        "Keystone": [
+            [
+                "key",
+                "stone"
+            ],
+            [
+                "keys",
+                "tone"
+            ]
+        ],
+        "LOBSTR": [
+            [
+                "lob",
+                "str"
+            ]
+        ],
+        "MEW wallet": [
+            [
+                "mew",
+                "wallet"
+            ]
+        ],
+        "Marble Wallet": [
+            [
+                "marble",
+                "wallet"
+            ]
+        ],
+        "MathWallet": [
+            [
+                "math",
+                "wallet"
+            ]
+        ],
+        "MetaMask": [
+            [
+                "meta",
+                "mask"
+            ]
+        ],
+        "Metal Pay": [
+            [
+                "metal",
+                "pay"
+            ]
+        ],
+        "Metamask": [
+            [
+                "meta",
+                "mask"
+            ]
+        ],
+        "Minerva Wallet": [
+            [
+                "minerva",
+                "wallet"
+            ]
+        ],
+        "MiniPay": [
+            [
+                "mini",
+                "pay"
+            ]
+        ],
+        "Monarch": [
+            [
+                "mon",
+                "arch"
+            ]
+        ],
+        "Monolith": [
+            [
+                "mono",
+                "lith"
+            ]
+        ],
+        "NOW Wallet": [
+            [
+                "now",
+                "wallet"
+            ]
+        ],
+        "Narval": [
+            [
+                "nar",
+                "val"
+            ]
+        ],
+        "Nova Wallet": [
+            [
+                "nova",
+                "wallet"
+            ]
+        ],
+        "OmniWallet": [
+            [
+                "omni",
+                "wallet"
+            ]
+        ],
+        "OneKey": [
+            [
+                "one",
+                "key"
+            ]
+        ],
+        "OpenDime": [
+            [
+                "open",
+                "dime"
+            ]
+        ],
+        "Opera Touch": [
+            [
+                "opera",
+                "touch"
+            ]
+        ],
+        "Ownbit": [
+            [
+                "own",
+                "bit"
+            ]
+        ],
+        "PTPWallet": [
+            [
+                "ptp",
+                "wallet"
+            ]
+        ],
+        "Phantom Wallet": [
+            [
+                "phantom",
+                "wallet"
+            ]
+        ],
+        "Pillar": [
+            [
+                "pil",
+                "lar"
+            ]
+        ],
+        "PipWallet": [
+            [
+                "pip",
+                "wallet"
+            ]
+        ],
+        "Plena Finance": [
+            [
+                "plena",
+                "finance"
+            ]
+        ],
+        "Portal": [
+            [
+                "por",
+                "tal"
+            ]
+        ],
+        "PumaPay": [
+            [
+                "puma",
+                "pay"
+            ]
+        ],
+        "Rainbow": [
+            [
+                "rain",
+                "bow"
+            ]
+        ],
+        "Rainmaker": [
+            [
+                "rain",
+                "maker"
+            ]
+        ],
+        "Raise Finance": [
+            [
+                "raise",
+                "finance"
+            ]
+        ],
+        "Robinhood": [
+            [
+                "robin",
+                "hood"
+            ]
+        ],
+        "Ronin Wallet": [
+            [
+                "ronin",
+                "wallet"
+            ]
+        ],
+        "Saakuru": [
+            [
+                "saa",
+                "kuru"
+            ]
+        ],
+        "SafePal": [
+            [
+                "safe",
+                "pal"
+            ]
+        ],
+        "SelfKey": [
+            [
+                "self",
+                "key"
+            ]
+        ],
+        "Sender": [
+            [
+                "sen",
+                "der"
+            ]
+        ],
+        "Snowflake": [
+            [
+                "snow",
+                "flake"
+            ]
+        ],
+        "Solflare": [
+            [
+                "sol",
+                "flare"
+            ]
+        ],
+        "Sorted Wallet": [
+            [
+                "sorted",
+                "wallet"
+            ]
+        ],
+        "Soul Wallet": [
+            [
+                "soul",
+                "wallet"
+            ]
+        ],
+        "Spot Wallet": [
+            [
+                "spot",
+                "wallet"
+            ]
+        ],
+        "Stakenet": [
+            [
+                "stake",
+                "net"
+            ]
+        ],
+        "StrongCoin": [
+            [
+                "strong",
+                "coin"
+            ]
+        ],
+        "Swirlwallet": [
+            [
+                "swirl",
+                "wallet"
+            ]
+        ],
+        "Talisman": [
+            [
+                "talis",
+                "man"
+            ]
+        ],
+        "Tangem": [
+            [
+                "tan",
+                "gem"
+            ]
+        ],
+        "Token Pockets": [
+            [
+                "token",
+                "pockets"
+            ]
+        ],
+        "TokenPocket": [
+            [
+                "token",
+                "pocket"
+            ]
+        ],
+        "Trust Wallet": [
+            [
+                "trust",
+                "wallet"
+            ]
+        ],
+        "TrustWallet": [
+            [
+                "trust",
+                "wallet"
+            ]
+        ],
+        "Trustology": [
+            [
+                "trust",
+                "ology"
+            ]
+        ],
+        "UniPass": [
+            [
+                "uni",
+                "pass"
+            ]
+        ],
+        "Unstoppable Wallet": [
+            [
+                "unstoppable",
+                "wallet"
+            ]
+        ],
+        "Virgo Wallet": [
+            [
+                "virgo",
+                "wallet"
+            ]
+        ],
+        "Vision": [
+            [
+                "vis",
+                "ion"
+            ]
+        ],
+        "WallETH": [
+            [
+                "wall",
+                "eth"
+            ]
+        ],
+        "WalletConnect": [
+            [
+                "wallet",
+                "connect"
+            ]
+        ],
+        "WalletKit": [
+            [
+                "wallet",
+                "kit"
+            ]
+        ],
+        "Wallmer": [
+            [
+                "wall",
+                "mer"
+            ]
+        ],
+        "Wasabi Wallet": [
+            [
+                "wasabi",
+                "wallet"
+            ]
+        ],
+        "Zelcore": [
+            [
+                "zel",
+                "core"
+            ]
+        ],
+        "Zerion": [
+            [
+                "zer",
+                "ion"
+            ]
+        ],
+        "iToken": [
+            [
+                "ito",
+                "ken"
+            ]
+        ],
+        "openfort": [
+            [
+                "open",
+                "fort"
+            ]
+        ],
+        "pier wallet": [
+            [
+                "pier",
+                "wallet"
+            ]
+        ],
+        "portis": [
+            [
+                "por",
+                "tis"
+            ]
+        ]
+    },
+    "3": {
+        "Ambire Wallet": [
+            [
+                "amb",
+                "ire",
+                "wallet"
+            ]
+        ],
+        "Bitcoin Well": [
+            [
+                "bit",
+                "coin",
+                "well"
+            ]
+        ],
+        "Bitget Wallet": [
+            [
+                "bit",
+                "get",
+                "wallet"
+            ]
+        ],
+        "Bitpanda Custody": [
+            [
+                "bit",
+                "panda",
+                "custody"
+            ]
+        ],
+        "Bitski Wallet": [
+            [
+                "bit",
+                "ski",
+                "wallet"
+            ]
+        ],
+        "Blockchain Wallet": [
+            [
+                "block",
+                "chain",
+                "wallet"
+            ]
+        ],
+        "Brave Software": [
+            [
+                "brave",
+                "soft",
+                "ware"
+            ],
+            [
+                "brave",
+                "software"
+            ]
+        ],
+        "Circle Invest": [
+            [
+                "circle",
+                "inv",
+                "est"
+            ],
+            [
+                "circle",
+                "invest"
+            ]
+        ],
+        "Coin Collect": [
+            [
+                "coin",
+                "col",
+                "lect"
+            ],
+            [
+                "coin",
+                "collect"
+            ]
+        ],
+        "Coinbase Wallet": [
+            [
+                "coin",
+                "base",
+                "wallet"
+            ]
+        ],
+        "Crypto Key Stack": [
+            [
+                "crypto",
+                "key",
+                "stack"
+            ]
+        ],
+        "Cryptonator": [
+            [
+                "crypt",
+                "ona",
+                "tor"
+            ]
+        ],
+        "Cypher Wallet": [
+            [
+                "cyp",
+                "her",
+                "wallet"
+            ],
+            [
+                "cypher",
+                "wallet"
+            ]
+        ],
+        "Fearless Wallet": [
+            [
+                "fear",
+                "less",
+                "wallet"
+            ],
+            [
+                "fearless",
+                "wallet"
+            ]
+        ],
+        "Freewallet Lite": [
+            [
+                "free",
+                "wallet",
+                "lite"
+            ]
+        ],
+        "Gem Guard Wallet": [
+            [
+                "gem",
+                "guard",
+                "wallet"
+            ]
+        ],
+        "Holdstation": [
+            [
+                "hold",
+                "stat",
+                "ion"
+            ],
+            [
+                "hold",
+                "station"
+            ],
+            [
+                "holds",
+                "tat",
+                "ion"
+            ]
+        ],
+        "Infinito Wallet": [
+            [
+                "infin",
+                "ito",
+                "wallet"
+            ]
+        ],
+        "Kraken Wallet": [
+            [
+                "kra",
+                "ken",
+                "wallet"
+            ],
+            [
+                "kraken",
+                "wallet"
+            ]
+        ],
+        "Ledger Blue": [
+            [
+                "led",
+                "ger",
+                "blue"
+            ],
+            [
+                "ledger",
+                "blue"
+            ]
+        ],
+        "Locksmith Wallet": [
+            [
+                "lock",
+                "smith",
+                "wallet"
+            ],
+            [
+                "locksmith",
+                "wallet"
+            ]
+        ],
+        "Mangos Wallet": [
+            [
+                "man",
+                "gos",
+                "wallet"
+            ],
+            [
+                "mangos",
+                "wallet"
+            ]
+        ],
+        "Martian Wallet": [
+            [
+                "mart",
+                "ian",
+                "wallet"
+            ],
+            [
+                "martian",
+                "wallet"
+            ]
+        ],
+        "Micro Lumens": [
+            [
+                "micro",
+                "lum",
+                "ens"
+            ],
+            [
+                "micro",
+                "lumens"
+            ]
+        ],
+        "NEO Tracker": [
+            [
+                "neo",
+                "trac",
+                "ker"
+            ],
+            [
+                "neo",
+                "tracker"
+            ]
+        ],
+        "Prokey Optimum": [
+            [
+                "pro",
+                "key",
+                "optimum"
+            ]
+        ],
+        "SimpleHold Wallet": [
+            [
+                "simple",
+                "hold",
+                "wallet"
+            ]
+        ],
+        "Solflare Wallet": [
+            [
+                "sol",
+                "flare",
+                "wallet"
+            ]
+        ]
+    },
+    "4": {
+        "Blockstream Green": [
+            [
+                "block",
+                "str",
+                "eam",
+                "green"
+            ],
+            [
+                "block",
+                "stream",
+                "green"
+            ]
+        ],
+        "Coinbase Smart Wallet": [
+            [
+                "coin",
+                "base",
+                "smart",
+                "wallet"
+            ]
+        ],
+        "HolyTransaction": [
+            [
+                "holy",
+                "trans",
+                "act",
+                "ion"
+            ],
+            [
+                "holy",
+                "trans",
+                "action"
+            ],
+            [
+                "holy",
+                "transact",
+                "ion"
+            ],
+            [
+                "holy",
+                "transaction"
+            ]
+        ],
+        "Poltergeist Wallet": [
+            [
+                "pol",
+                "ter",
+                "geist",
+                "wallet"
+            ],
+            [
+                "poltergeist",
+                "wallet"
+            ]
+        ],
+        "SafePal Cypher": [
+            [
+                "safe",
+                "pal",
+                "cyp",
+                "her"
+            ],
+            [
+                "safe",
+                "pal",
+                "cypher"
+            ]
+        ]
+    },
+    "5": {
+        "ADAMANT Messenger": [
+            [
+                "ada",
+                "mant",
+                "mes",
+                "sen",
+                "ger"
+            ],
+            [
+                "ada",
+                "mant",
+                "messenger"
+            ],
+            [
+                "adam",
+                "ant",
+                "mes",
+                "sen",
+                "ger"
+            ],
+            [
+                "adam",
+                "ant",
+                "messenger"
+            ],
+            [
+                "adamant",
+                "mes",
+                "sen",
+                "ger"
+            ],
+            [
+                "adamant",
+                "messenger"
+            ]
+        ],
+        "Anchorage Digital": [
+            [
+                "anc",
+                "hor",
+                "age",
+                "dig",
+                "ital"
+            ],
+            [
+                "anc",
+                "hor",
+                "age",
+                "digital"
+            ],
+            [
+                "anchor",
+                "age",
+                "dig",
+                "ital"
+            ],
+            [
+                "anchor",
+                "age",
+                "digital"
+            ],
+            [
+                "anchorage",
+                "dig",
+                "ital"
+            ],
+            [
+                "anchorage",
+                "digital"
+            ]
+        ],
+        "Ethos Universal Wallet": [
+            [
+                "ethos",
+                "uni",
+                "ver",
+                "sal",
+                "wallet"
+            ],
+            [
+                "ethos",
+                "uni",
+                "versal",
+                "wallet"
+            ],
+            [
+                "ethos",
+                "universal",
+                "wallet"
+            ]
+        ]
+    },
+    "7": {
+        "LEDGER CRYPTOSTEEL CAPSULE SOLO": [
+            [
+                "led",
+                "ger",
+                "crypto",
+                "steel",
+                "caps",
+                "ule",
+                "solo"
+            ],
+            [
+                "led",
+                "ger",
+                "crypto",
+                "steel",
+                "capsule",
+                "solo"
+            ],
+            [
+                "led",
+                "ger",
+                "cryptos",
+                "teel",
+                "caps",
+                "ule",
+                "solo"
+            ],
+            [
+                "led",
+                "ger",
+                "cryptos",
+                "teel",
+                "capsule",
+                "solo"
+            ],
+            [
+                "ledger",
+                "crypto",
+                "steel",
+                "caps",
+                "ule",
+                "solo"
+            ],
+            [
+                "ledger",
+                "crypto",
+                "steel",
+                "capsule",
+                "solo"
+            ],
+            [
+                "ledger",
+                "cryptos",
+                "teel",
+                "caps",
+                "ule",
+                "solo"
+            ],
+            [
+                "ledger",
+                "cryptos",
+                "teel",
+                "capsule",
+                "solo"
+            ]
+        ]
+    }
+}
